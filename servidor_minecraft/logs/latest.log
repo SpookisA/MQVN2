@@ -242,3 +242,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 18:49:50.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
 [30Dec2024 18:55:18.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT moved too quickly! 0.0,0.0,10.082781498752752
 [30Dec2024 18:55:30.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[30Dec2024 19:12:23.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken_YT lost connection: Timed out
+[30Dec2024 19:12:23.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT left the game
+[30Dec2024 19:12:23.986] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
