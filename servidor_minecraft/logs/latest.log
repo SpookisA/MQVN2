@@ -324,3 +324,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [30Dec2024 22:00:52.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=30, z=95} BlockPos{x=68, y=27, z=95}
 [30Dec2024 22:00:52.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=30, z=95} BlockPos{x=68, y=27, z=95}
 [30Dec2024 22:00:52.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=67, y=30, z=95} BlockPos{x=68, y=27, z=95}
+[30Dec2024 22:10:29.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Spooken_YT[/127.211.96.2:56923] logged in with entity id 23189 at (-331.04226846093036, 112.0, 3228.3241453203295)
+[30Dec2024 22:10:29.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken_YT joined the game
+[30Dec2024 22:10:29.988] [Server thread/INFO] [Jade/]: Syncing config to Spooken_YT (a0514e61-eb98-34b6-b658-4b0bbef4bfb9)
+[30Dec2024 22:10:32.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[30Dec2024 22:16:45.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thiagojoe lost connection: You logged in from another location
+[30Dec2024 22:16:45.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe left the game
+[30Dec2024 22:16:45.219] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Dec2024 22:16:45.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thiagojoe[/127.243.25.3:45669] logged in with entity id 28091 at (7.66795100391012, 15.0, 294.15028897834685)
+[30Dec2024 22:16:45.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thiagojoe joined the game
+[30Dec2024 22:16:45.361] [Server thread/INFO] [Jade/]: Syncing config to thiagojoe (d30e6e80-2314-34b7-9cd9-062d882aeefd)
