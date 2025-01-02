@@ -26,6 +26,7 @@
       "minecraft:river": "2024-12-20 18:18:29 +0000",
       "minecraft:snowy_plains": "2024-12-20 18:34:24 +0000",
       "minecraft:dripstone_caves": "2024-12-22 13:37:41 +0000",
+      "minecraft:snowy_taiga": "2024-12-30 22:59:56 +0000",
       "minecraft:swamp": "2024-12-20 19:16:45 +0000",
       "minecraft:cold_ocean": "2024-12-20 19:15:23 +0000",
       "minecraft:forest": "2024-12-20 18:24:35 +0000",
@@ -5037,6 +5038,102 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2024-12-30 21:50:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 22:39:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 22:39:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-30 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-30 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-30 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-30 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2024-12-30 22:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2024-12-30 22:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper": {
+    "criteria": {
+      "has_exposed_copper": "2024-12-30 22:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2024-12-30 22:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2024-12-30 22:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_from_honeycomb": {
+    "criteria": {
+      "has_exposed_copper": "2024-12-30 22:49:42 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2024-12-30 22:53:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-30 22:54:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/crime_in_town": {
+    "criteria": {
+      "coded_trigger": "2024-12-30 23:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-30 23:19:07 +0000"
     },
     "done": true
   },
