@@ -5117,5 +5117,23 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-01-11 20:55:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-01-11 20:55:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-11 20:55:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
