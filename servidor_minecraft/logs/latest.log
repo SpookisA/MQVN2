@@ -805,3 +805,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [11Jan2025 22:54:45.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5922ms or 118 ticks behind
 [11Jan2025 22:55:13.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13465ms or 269 ticks behind
 [11Jan2025 23:02:05.126] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by facuamayitaa
+[11Jan2025 23:22:00.475] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7017, l='ServerLevel[world]', x=-960.07, y=65.00, z=1534.07] died, message: 'Villager bled to death'
+[11Jan2025 23:23:33.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Cover Me with Diamonds]
+[11Jan2025 23:24:57.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [A Seedy Place]
+[11Jan2025 23:29:40.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Take Aim]

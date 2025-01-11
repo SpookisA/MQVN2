@@ -6207,3 +6207,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [11Jan2025 23:12:59.552] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Jan2025 23:17:59.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jan2025 23:17:59.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 23:22:00.475] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7017, l='ServerLevel[world]', x=-960.07, y=65.00, z=1534.07] died, message: 'Villager bled to death'
+[11Jan2025 23:22:59.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 23:22:59.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 23:23:33.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Cover Me with Diamonds]
+[11Jan2025 23:24:57.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [A Seedy Place]
+[11Jan2025 23:27:59.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 23:27:59.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 23:29:40.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Take Aim]

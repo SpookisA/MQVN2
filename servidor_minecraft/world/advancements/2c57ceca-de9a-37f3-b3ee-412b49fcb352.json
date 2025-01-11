@@ -5135,5 +5135,17 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-11 23:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-01-11 23:24:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
