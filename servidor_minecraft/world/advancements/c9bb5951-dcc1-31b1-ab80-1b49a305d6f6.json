@@ -6154,6 +6154,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-01-12 02:33:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hand_crank": {
     "criteria": {
       "has_item": "2025-01-12 01:46:48 +0000"

@@ -842,3 +842,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [12Jan2025 02:25:11.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> JAJAJAJA
 [12Jan2025 02:25:22.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken> Aña pankeis
 [12Jan2025 02:25:30.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken> Es el comienszo de la era industrial
+[12Jan2025 02:35:23.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[12Jan2025 02:37:15.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Spooken: Teleported Spooken to facuamayitaa]
