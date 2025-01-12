@@ -6380,6 +6380,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-12 23:10:25 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_soul_torch": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
@@ -6443,6 +6449,12 @@
   "framedblocks:recipes/building_blocks/framed_fence_gate": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-01-12 23:15:13 +0000"
     },
     "done": true
   },
@@ -6527,6 +6539,12 @@
   "framedblocks:recipes/building_blocks/framed_fancy_detector_rail_slope": {
     "criteria": {
       "hasFramedSlope": "2025-01-12 22:42:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-12 23:10:25 +0000"
     },
     "done": true
   },
@@ -6728,9 +6746,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-12 23:10:25 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_fancy_powered_rail": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-01-12 23:10:25 +0000"
     },
     "done": true
   },
@@ -6749,6 +6779,12 @@
   "framedblocks:recipes/building_blocks/framed_inner_prism": {
     "criteria": {
       "hasFramedSlope": "2025-01-12 22:42:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-12 23:10:25 +0000"
     },
     "done": true
   },
@@ -6803,6 +6839,12 @@
   "framedblocks:recipes/building_blocks/framed_hanging_sign": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-01-12 23:15:13 +0000"
     },
     "done": true
   },
