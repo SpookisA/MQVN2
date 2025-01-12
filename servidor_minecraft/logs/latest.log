@@ -774,3 +774,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [12Jan2025 22:15:58.949] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{facuamayitaa})
 [12Jan2025 22:20:50.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -820.500000, 68.000000, 1504.500000]
 [12Jan2025 22:39:17.742] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/5364, l='ServerLevel[world]', x=-872.91, y=99.00, z=1420.30] died, message: 'Shepherd was slain by Zombie'
+[12Jan2025 22:48:42.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Spooken[/127.43.123.172:46235] logged in with entity id 11535 at (-821.0905962765901, 51.0, 1487.5393023174272)
+[12Jan2025 22:48:42.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken joined the game
+[12Jan2025 22:48:42.643] [Server thread/INFO] [Devices Mod/]: Player logged in: literal{Spooken}
+[12Jan2025 22:49:13.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> bom dia
+[12Jan2025 22:49:15.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken> Añaaa
+[12Jan2025 22:49:20.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken> Buen dia
+[12Jan2025 22:49:37.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> como mrd hacemos con el dragon
+[12Jan2025 22:49:41.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken> Guardo cosas y detonamos al dragon
+[12Jan2025 22:49:48.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken> Mi escopeta soluciona
+[12Jan2025 22:50:11.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> tenes varas d blaze?
+[12Jan2025 22:50:17.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> para hacer una arma
+[12Jan2025 22:50:21.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken> Cuantas quete
+[12Jan2025 22:50:26.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken> Quere*
+[12Jan2025 22:50:27.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> ahi t digo
+[12Jan2025 22:51:04.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> no ninguna
+[12Jan2025 22:51:10.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> m voy a hacer balas
+[12Jan2025 22:51:14.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken> Okk
+[12Jan2025 22:51:18.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> y una carabina
+[12Jan2025 22:51:41.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken> Ya hoy hago la granja de mobs
+[12Jan2025 22:51:46.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Spooken> Para la polvora
+[12Jan2025 22:51:52.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> ta bom
