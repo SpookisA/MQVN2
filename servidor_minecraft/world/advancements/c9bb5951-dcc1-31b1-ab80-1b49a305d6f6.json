@@ -6888,12 +6888,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_chestplate": {
-    "criteria": {
-      "has_item": "2025-01-12 23:06:15 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2025-01-12 22:58:51 +0000"
@@ -6903,6 +6897,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2025-01-12 23:06:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-12 23:06:15 +0000"
     },
     "done": true
   },
