@@ -6410,6 +6410,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-01-12 23:00:14 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_vertical_stairs": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"

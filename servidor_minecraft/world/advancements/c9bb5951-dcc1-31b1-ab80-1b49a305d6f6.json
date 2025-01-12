@@ -1002,7 +1002,8 @@
       "minecraft:husk": "2025-01-11 02:51:45 +0000",
       "minecraft:cave_spider": "2025-01-11 02:03:59 +0000",
       "minecraft:stray": "2025-01-11 02:48:12 +0000",
-      "minecraft:zombie": "2025-01-11 01:56:05 +0000"
+      "minecraft:zombie": "2025-01-11 01:56:05 +0000",
+      "minecraft:zombie_villager": "2025-01-12 23:01:09 +0000"
     },
     "done": false
   },
@@ -6887,9 +6888,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-01-12 23:06:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2025-01-12 22:58:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-12 23:06:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-01-12 23:06:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-01-12 23:06:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-01-12 23:06:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-01-12 23:06:15 +0000"
     },
     "done": true
   },
