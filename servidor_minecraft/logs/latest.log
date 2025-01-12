@@ -773,3 +773,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [12Jan2025 22:15:54.182] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by facuamayitaa
 [12Jan2025 22:15:58.949] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{facuamayitaa})
 [12Jan2025 22:20:50.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -820.500000, 68.000000, 1504.500000]
+[12Jan2025 22:39:17.742] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/5364, l='ServerLevel[world]', x=-872.91, y=99.00, z=1420.30] died, message: 'Shepherd was slain by Zombie'
