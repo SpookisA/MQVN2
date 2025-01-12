@@ -6368,6 +6368,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_lattice_block": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
@@ -6398,6 +6410,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_slope_slab": {
     "criteria": {
       "hasFramedSlope": "2025-01-12 22:42:26 +0000"
@@ -6413,6 +6431,12 @@
   "framedblocks:recipes/building_blocks/framed_prism_corner": {
     "criteria": {
       "hasFramedSlope": "2025-01-12 22:42:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
     },
     "done": true
   },
@@ -6437,6 +6461,12 @@
   "framedblocks:recipes/building_blocks/framed_fancy_rail": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-12 23:21:32 +0000"
     },
     "done": true
   },
@@ -6479,6 +6509,12 @@
   "framedblocks:recipes/building_blocks/framed_pane": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-12 23:21:32 +0000"
     },
     "done": true
   },
@@ -6530,6 +6566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_slope": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
@@ -6539,6 +6581,18 @@
   "framedblocks:recipes/building_blocks/framed_fancy_detector_rail_slope": {
     "criteria": {
       "hasFramedSlope": "2025-01-12 22:42:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
     },
     "done": true
   },
@@ -6566,6 +6620,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/tools/framing_saw": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
@@ -6584,6 +6644,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_fancy_activator_rail": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
@@ -6596,6 +6668,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_flower_pot": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
@@ -6605,6 +6683,30 @@
   "framedblocks:recipes/building_blocks/framed_stone_pressure_plate": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
     },
     "done": true
   },
@@ -6629,6 +6731,18 @@
   "framedblocks:recipes/building_blocks/framed_chest": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
     },
     "done": true
   },
@@ -6680,6 +6794,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_powered_rail_slope": {
     "criteria": {
       "hasFramedSlope": "2025-01-12 22:42:26 +0000"
@@ -6698,9 +6818,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_pressure_plate": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-01-12 23:21:32 +0000"
     },
     "done": true
   },
@@ -6746,6 +6878,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
       "has_item": "2025-01-12 23:10:25 +0000"
@@ -6755,6 +6893,12 @@
   "framedblocks:recipes/building_blocks/framed_fancy_powered_rail": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
     },
     "done": true
   },
@@ -6794,6 +6938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/building_blocks/framed_fancy_powered_rail_slope": {
     "criteria": {
       "hasFramedSlope": "2025-01-12 22:42:26 +0000"
@@ -6803,6 +6953,12 @@
   "framedblocks:recipes/tools/framed_key": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
     },
     "done": true
   },
@@ -6824,9 +6980,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-12 23:21:32 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/tools/framed_blueprint": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-01-12 23:21:32 +0000"
     },
     "done": true
   },
@@ -6851,6 +7031,12 @@
   "framedblocks:recipes/tools/framed_wrench": {
     "criteria": {
       "hasFramedCube": "2025-01-12 22:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-01-12 23:21:32 +0000"
     },
     "done": true
   },
