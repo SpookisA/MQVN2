@@ -6565,3 +6565,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [12Jan2025 03:25:44.557] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-819, y=68, z=1496}
 [12Jan2025 03:25:58.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Jan2025 03:25:58.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 03:30:58.298] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 03:30:58.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 03:34:20.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/585, l='ServerLevel[world]', x=-959.93, y=59.00, z=1540.94] died, message: 'Villager hit the ground too hard'
+[12Jan2025 03:35:58.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 03:35:58.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 03:40:21.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuamayitaa moved wrongly!

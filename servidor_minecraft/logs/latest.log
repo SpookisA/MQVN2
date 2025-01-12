@@ -951,3 +951,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [12Jan2025 03:25:26.971] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spooken lost connection: Disconnected
 [12Jan2025 03:25:26.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Spooken left the game
 [12Jan2025 03:25:27.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> chauu
+[12Jan2025 03:34:20.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/585, l='ServerLevel[world]', x=-959.93, y=59.00, z=1540.94] died, message: 'Villager hit the ground too hard'
+[12Jan2025 03:40:21.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuamayitaa moved wrongly!
