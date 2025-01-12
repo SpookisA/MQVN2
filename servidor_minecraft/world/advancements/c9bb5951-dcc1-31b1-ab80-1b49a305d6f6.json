@@ -6130,6 +6130,12 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-01-12 02:04:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/goggles": {
     "criteria": {
       "has_item": "2025-01-12 01:46:48 +0000"
@@ -6181,6 +6187,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-01-12 01:46:48 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-01-12 02:03:20 +0000"
     },
     "done": true
   },
