@@ -783,3 +783,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [13Jan2025 19:05:11.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9683ms or 193 ticks behind
 [13Jan2025 19:05:47.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20849ms or 416 ticks behind
 [13Jan2025 19:06:04.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
+[13Jan2025 19:17:24.785] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[13Jan2025 19:17:24.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[13Jan2025 19:17:40.957] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
