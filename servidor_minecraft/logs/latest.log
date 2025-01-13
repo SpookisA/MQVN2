@@ -882,3 +882,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [13Jan2025 01:24:27.132] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{facuamayitaa})
 [13Jan2025 01:25:18.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has reached the goal [Great minds think alike]
 [13Jan2025 01:48:24.279] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 01:54:48.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -820.500000, 68.000000, 1504.500000]
+[13Jan2025 01:59:56.879] [Server thread/INFO] [Scaling Health/]: Blight Stray has died
