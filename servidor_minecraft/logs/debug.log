@@ -8039,3 +8039,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [13Jan2025 02:23:32.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Jan2025 02:28:32.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jan2025 02:28:32.272] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:33:32.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 02:33:32.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:38:32.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 02:38:32.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 02:40:41.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was shot by Skeleton
+[13Jan2025 02:40:41.407] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-813, y:68, z:1498, dim:minecraft:overworld]
+[13Jan2025 02:40:41.413] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[13Jan2025 02:40:41.709] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jan2025 02:40:41.710] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Jan2025 02:40:42.120] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736736042048
+[13Jan2025 02:41:10.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Wither Skeleton
+[13Jan2025 02:41:10.131] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-794, y:67, z:1502, dim:minecraft:overworld]
+[13Jan2025 02:41:10.148] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[13Jan2025 02:41:10.342] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jan2025 02:41:10.343] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jan2025 02:41:10.587] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736736070543

@@ -884,3 +884,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [13Jan2025 01:48:24.279] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [13Jan2025 01:54:48.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -820.500000, 68.000000, 1504.500000]
 [13Jan2025 01:59:56.879] [Server thread/INFO] [Scaling Health/]: Blight Stray has died
+[13Jan2025 02:40:41.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was shot by Skeleton
+[13Jan2025 02:40:41.413] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[13Jan2025 02:40:41.709] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jan2025 02:40:41.710] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Jan2025 02:41:10.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Wither Skeleton
+[13Jan2025 02:41:10.148] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[13Jan2025 02:41:10.342] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jan2025 02:41:10.343] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
