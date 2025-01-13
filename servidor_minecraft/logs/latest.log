@@ -786,3 +786,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [13Jan2025 19:17:24.785] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
 [13Jan2025 19:17:24.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
 [13Jan2025 19:17:40.957] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[13Jan2025 19:23:20.720] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{facuamayitaa})
