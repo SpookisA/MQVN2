@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-13 01:15:43 +0000",
       "minecraft:cherry_grove": "2025-01-11 03:40:28 +0000",
       "minecraft:sunflower_plains": "2025-01-11 03:12:16 +0000",
       "minecraft:birch_forest": "2025-01-11 02:31:54 +0000",
@@ -28,11 +29,15 @@
       "minecraft:sparse_jungle": "2025-01-11 02:26:47 +0000",
       "minecraft:river": "2025-01-11 01:48:04 +0000",
       "minecraft:dripstone_caves": "2025-01-11 01:55:52 +0000",
+      "minecraft:snowy_taiga": "2025-01-13 01:15:35 +0000",
       "minecraft:cold_ocean": "2025-01-11 07:21:15 +0000",
       "minecraft:forest": "2025-01-11 01:52:55 +0000",
+      "minecraft:ice_spikes": "2025-01-13 01:11:56 +0000",
+      "minecraft:frozen_ocean": "2025-01-13 01:12:11 +0000",
       "minecraft:windswept_forest": "2025-01-11 01:52:29 +0000",
       "minecraft:jungle": "2025-01-11 02:30:44 +0000",
       "minecraft:ocean": "2025-01-12 22:13:35 +0000",
+      "minecraft:snowy_beach": "2025-01-13 01:11:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-11 01:56:44 +0000",
       "minecraft:meadow": "2025-01-11 02:33:40 +0000",
       "minecraft:savanna": "2025-01-11 01:42:40 +0000",
@@ -7064,9 +7069,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-13 01:25:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-01-13 00:55:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-13 01:00:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-01-13 01:30:47 +0000"
     },
     "done": true
   },
@@ -7076,9 +7099,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-13 01:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-01-13 00:55:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-13 01:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-13 01:20:27 +0000"
     },
     "done": true
   },

@@ -854,3 +854,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [13Jan2025 00:57:05.821] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
 [13Jan2025 00:57:06.714] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [13Jan2025 00:57:06.715] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jan2025 01:00:45.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [My Name is Nobody]
+[13Jan2025 01:01:55.952] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8081, l='ServerLevel[world]', x=-1531.42, y=90.00, z=1879.70] died, message: 'Villager suffocated in a wall'
+[13Jan2025 01:03:05.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was turned to stone by Gorgon
+[13Jan2025 01:03:05.739] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[13Jan2025 01:03:05.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9777ms or 195 ticks behind
+[13Jan2025 01:03:06.681] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jan2025 01:03:06.681] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Jan2025 01:03:29.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -1514.500000, 65.000000, 2278.500000]
+[13Jan2025 01:03:37.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was turned to stone by Gorgon
+[13Jan2025 01:03:37.843] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[13Jan2025 01:03:37.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuamayitaa moved wrongly!
+[13Jan2025 01:03:38.780] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jan2025 01:03:38.781] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[13Jan2025 01:04:07.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -1506.500000, 65.000000, 2285.500000]
+[13Jan2025 01:04:10.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was turned to stone by Gorgon
+[13Jan2025 01:04:10.071] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[13Jan2025 01:04:10.905] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jan2025 01:04:10.906] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[13Jan2025 01:04:12.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[13Jan2025 01:08:08.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -1506.500000, 65.000000, 2285.500000]
+[13Jan2025 01:08:11.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was turned to stone by Gorgon
+[13Jan2025 01:08:11.635] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[13Jan2025 01:08:12.921] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[13Jan2025 01:08:12.923] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[13Jan2025 01:08:12.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[13Jan2025 01:24:27.132] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{facuamayitaa})
+[13Jan2025 01:25:18.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has reached the goal [Great minds think alike]
