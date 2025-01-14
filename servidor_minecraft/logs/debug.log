@@ -6164,3 +6164,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [14Jan2025 03:41:28.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Ice Bucket Challenge]
 [14Jan2025 03:42:51.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1114, y=84, z=1121} BlockPos{x=-1115, y=83, z=1122}
 [14Jan2025 03:42:55.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1111, y=84, z=1119} BlockPos{x=-1111, y=82, z=1120}
+[14Jan2025 03:45:08.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 03:45:08.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 03:50:08.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 03:50:08.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
