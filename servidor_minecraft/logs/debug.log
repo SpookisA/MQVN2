@@ -8066,3 +8066,73 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [14Jan2025 18:00:37.536] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [14Jan2025 18:00:37.584] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
 [14Jan2025 18:00:37.739] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736877637726
+[14Jan2025 18:00:57.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -994.500000, -18.000000, 1225.500000]
+[14Jan2025 18:01:18.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuamayitaa moved wrongly!
+[14Jan2025 18:01:26.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was incinerated by Fire Dragon
+[14Jan2025 18:01:26.914] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-1009, y:-20, z:1216, dim:minecraft:overworld]
+[14Jan2025 18:01:26.929] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[14Jan2025 18:01:27.159] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jan2025 18:01:27.160] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[14Jan2025 18:01:27.210] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[14Jan2025 18:01:27.353] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736877687352
+[14Jan2025 18:01:40.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -1008.500000, -20.000000, 1216.500000]
+[14Jan2025 18:01:59.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 18:01:59.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 18:02:03.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was incinerated by Fire Dragon
+[14Jan2025 18:02:03.134] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-991, y:-19, z:1195, dim:minecraft:overworld]
+[14Jan2025 18:02:03.153] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[14Jan2025 18:02:03.394] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jan2025 18:02:03.395] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[14Jan2025 18:02:03.423] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[14Jan2025 18:02:03.590] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736877723572
+[14Jan2025 18:02:18.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Fire Dragon
+[14Jan2025 18:02:18.314] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-992, y:-19, z:1200, dim:minecraft:overworld]
+[14Jan2025 18:02:18.330] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[14Jan2025 18:02:18.509] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jan2025 18:02:18.510] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Jan2025 18:02:18.539] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[14Jan2025 18:02:18.724] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736877738723
+[14Jan2025 18:02:34.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -991.500000, -19.000000, 1200.500000]
+[14Jan2025 18:02:43.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Fire Dragon
+[14Jan2025 18:02:43.615] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[14Jan2025 18:02:43.830] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jan2025 18:02:43.831] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Jan2025 18:02:43.847] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[14Jan2025 18:02:44.007] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736877764007
+[14Jan2025 18:03:07.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -991.500000, -19.000000, 1200.500000]
+[14Jan2025 18:03:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was incinerated by Fire Dragon
+[14Jan2025 18:03:17.481] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-991, y:-19, z:1212, dim:minecraft:overworld]
+[14Jan2025 18:03:17.557] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[14Jan2025 18:03:17.784] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jan2025 18:03:17.784] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[14Jan2025 18:03:17.829] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[14Jan2025 18:03:18.019] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736877798012
+[14Jan2025 18:03:44.957] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/16340, l='ServerLevel[world]', x=-1003.15, y=-18.75, z=1213.15] died: facuamayitaa burned to death
+[14Jan2025 18:03:55.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[14Jan2025 18:03:55.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/16347, l='ServerLevel[world]', x=-1014.70, y=-18.60, z=1201.32] died: You have perished from holy damage
+[14Jan2025 18:03:59.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/16326, l='ServerLevel[world]', x=-1013.57, y=-19.00, z=1200.39] died: facuamayitaa was killed by magic whilst trying to escape facuamayitaa
+[14Jan2025 18:04:01.142] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/16346, l='ServerLevel[world]', x=-1013.72, y=-18.60, z=1200.84] died: You have perished from holy damage
+[14Jan2025 18:04:26.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Fire Dragon
+[14Jan2025 18:04:26.464] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-982, y:-18, z:1199, dim:minecraft:overworld]
+[14Jan2025 18:04:26.481] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[14Jan2025 18:04:26.730] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jan2025 18:04:26.731] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[14Jan2025 18:04:26.743] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[14Jan2025 18:04:26.924] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736877866921
+[14Jan2025 18:06:59.467] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 18:06:59.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 18:07:09.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -981.500000, -18.000000, 1199.500000]
+[14Jan2025 18:10:10.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Fire Dragon
+[14Jan2025 18:10:10.616] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-1007, y:-19, z:1195, dim:minecraft:overworld]
+[14Jan2025 18:10:10.640] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[14Jan2025 18:10:10.853] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jan2025 18:10:10.853] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[14Jan2025 18:10:10.879] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[14Jan2025 18:10:11.042] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736878211027
+[14Jan2025 18:11:59.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 18:11:59.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 18:12:33.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -820.500000, 68.000000, 1504.500000]
+[14Jan2025 18:13:08.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -1006.500000, -19.000000, 1195.500000]
+[14Jan2025 18:16:59.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 18:16:59.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 18:20:52.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -820.500000, 68.000000, 1504.500000]
