@@ -1911,3 +1911,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [14Jan2025 17:22:58.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6343ms or 126 ticks behind
 [14Jan2025 17:23:29.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15954ms or 319 ticks behind
 [14Jan2025 17:24:36.562] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/709, l='ServerLevel[world]', x=-933.08, y=88.00, z=1412.46] died, message: 'Scribe bled to death'
+[14Jan2025 18:00:37.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Fire Dragon
+[14Jan2025 18:00:37.249] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[14Jan2025 18:00:37.535] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jan2025 18:00:37.536] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty

@@ -8055,3 +8055,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [14Jan2025 17:41:59.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Jan2025 17:46:59.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Jan2025 17:46:59.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 17:51:59.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 17:51:59.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 17:56:59.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 17:56:59.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 18:00:37.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Fire Dragon
+[14Jan2025 18:00:37.200] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-995, y:-18, z:1225, dim:minecraft:overworld]
+[14Jan2025 18:00:37.249] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[14Jan2025 18:00:37.535] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[14Jan2025 18:00:37.536] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[14Jan2025 18:00:37.584] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[14Jan2025 18:00:37.739] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736877637726

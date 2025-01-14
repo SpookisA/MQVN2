@@ -523,6 +523,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-11 02:06:20 +0000",
+      "cooked_mutton": "2025-01-14 17:52:49 +0000",
       "cooked_beef": "2025-01-11 03:22:43 +0000",
       "beef": "2025-01-11 01:50:55 +0000",
       "porkchop": "2025-01-11 01:51:51 +0000",
@@ -7380,6 +7381,12 @@
   "twilightforest:recipes/transportation/mining_boat": {
     "criteria": {
       "in_water": "2025-01-14 17:24:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-01-14 17:49:45 +0000"
     },
     "done": true
   },
