@@ -905,3 +905,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [15Jan2025 22:17:58.589] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
 [15Jan2025 22:25:48.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Splintering II]
 [15Jan2025 22:29:36.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[15Jan2025 22:41:33.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -89.500000, 111.000000, 183.500000]
