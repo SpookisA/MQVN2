@@ -7052,3 +7052,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [15Jan2025 22:50:02.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jan2025 22:51:47.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-793, y=58, z=1484} BlockPos{x=-793, y=53, z=1489}
 [15Jan2025 22:51:50.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-793, y=52, z=1485} BlockPos{x=-793, y=50, z=1486}
+[15Jan2025 22:55:02.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 22:55:02.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 22:58:06.597] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/6812, l='ServerLevel[world]', x=-908.50, y=90.50, z=1423.70] died, message: 'Nitwit bled to death'
+[15Jan2025 23:00:02.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 23:00:02.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 23:00:57.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6767, l='ServerLevel[world]', x=-895.05, y=88.00, z=1549.68] died, message: 'Villager was slain by Zombie'
+[15Jan2025 23:01:17.471] [Server thread/INFO] [Scaling Health/]: Blight Spider was killed by facuamayitaa
