@@ -7043,3 +7043,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [15Jan2025 22:40:02.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jan2025 22:41:33.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -89.500000, 111.000000, 183.500000]
 [15Jan2025 22:41:43.480] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1736980903002
+[15Jan2025 22:45:02.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 22:45:02.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 22:47:45.897] [Server thread/DEBUG] [CollectorsAlbum/]: ServerPlayer['facuamayitaa'/439, l='ServerLevel[world]', x=-819.64, y=68.00, z=1500.79] is opening card pack common_card_pack with generated content: [1 common_stone_hoe_card, 1 common_iron_shovel_card, 1 common_coal_card, 1 common_pillager_card, 1 uncommon_diamond_card]
+[15Jan2025 22:47:56.357] [Server thread/DEBUG] [CollectorsAlbum/]: ServerPlayer['facuamayitaa'/439, l='ServerLevel[world]', x=-819.64, y=68.00, z=1500.79] has requested pack content drops. Received content list from item 1 common_card_pack: PackContents[contents=[1 uncommon_diamond_card, 1 common_stone_hoe_card, 1 common_pillager_card, 1 common_iron_shovel_card, 1 common_coal_card]]
+[15Jan2025 22:49:01.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuamayitaa moved too quickly! -8.65463611460791,-5.495504135427751,-0.3377614082226046
+[15Jan2025 22:50:02.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jan2025 22:50:02.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jan2025 22:51:47.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-793, y=58, z=1484} BlockPos{x=-793, y=53, z=1489}
+[15Jan2025 22:51:50.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-793, y=52, z=1485} BlockPos{x=-793, y=50, z=1486}
