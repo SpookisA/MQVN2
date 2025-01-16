@@ -1018,3 +1018,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [16Jan2025 04:38:21.197] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/30363, l='ServerLevel[world]', x=-804.36, y=68.00, z=1499.17] died: facuamayitaa was burnt to a crisp whilst fighting facuamayitaa
 [16Jan2025 04:38:21.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/29939, l='ServerLevel[world]', x=-804.52, y=68.00, z=1496.23] died: facuamayitaa was slain by facuamayitaa
 [16Jan2025 04:38:32.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/30521, l='ServerLevel[world]', x=-800.80, y=68.00, z=1500.21] died: facuamayitaa was burnt to a crisp whilst fighting facuamayitaa
+[16Jan2025 05:05:24.301] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26808, l='ServerLevel[world]', x=-890.44, y=81.00, z=1447.60] died, message: 'Villager was shot by Stray'
+[16Jan2025 05:08:17.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26806, l='ServerLevel[world]', x=-899.28, y=91.00, z=1485.46] died, message: 'You have perished from holy damage'
+[16Jan2025 05:09:21.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuamayitaa lost connection: Disconnected
+[16Jan2025 05:09:21.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa left the game
+[16Jan2025 05:11:15.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuamayitaa[/127.47.93.245:35593] logged in with entity id 36642 at (-809.6016841306539, 61.0, 1490.9859136396803)
+[16Jan2025 05:11:15.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa joined the game
+[16Jan2025 05:11:15.262] [Server thread/INFO] [Devices Mod/]: Player logged in: literal{facuamayitaa}

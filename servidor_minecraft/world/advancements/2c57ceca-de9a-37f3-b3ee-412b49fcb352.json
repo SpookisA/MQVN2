@@ -7853,9 +7853,27 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_item": "2025-01-16 04:47:27 +0000"
+      "has_glowstone_dust": "2025-01-16 03:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-16 03:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-16 03:30:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-16 03:44:52 +0000"
     },
     "done": true
   },
@@ -7865,33 +7883,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
-    "criteria": {
-      "has_polished_diorite": "2025-01-16 05:01:45 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_double_stairs": {
-    "criteria": {
-      "hasFramedStairs": "2025-01-16 04:39:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-01-16 03:46:24 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-01-16 04:11:34 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
     "criteria": {
       "has_feather": "2025-01-16 03:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-16 03:45:17 +0000"
     },
     "done": true
   },
@@ -7901,9 +7901,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "has_glowstone": "2025-01-16 03:30:06 +0000"
+      "voluntary_exile": "2025-01-16 03:46:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 03:46:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 04:11:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-16 04:36:03 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-01-16 04:39:55 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-01-16 04:39:55 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_half_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-01-16 04:39:55 +0000"
     },
     "done": true
   },
@@ -7919,57 +7955,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-16 03:29:42 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
-    "criteria": {
-      "hasFramedStairs": "2025-01-16 04:39:55 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-01-16 03:44:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-01-16 04:44:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
     "criteria": {
-      "has_chicken": "2025-01-16 03:45:17 +0000"
+      "has_item": "2025-01-16 04:47:27 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
     "criteria": {
-      "used_totem": "2025-01-16 04:36:03 +0000"
+      "has_item": "2025-01-16 04:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-01-16 05:01:45 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2025-01-16 05:01:45 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-01-16 03:46:24 +0000"
-    },
-    "done": true
-  },
-  "framedblocks:recipes/building_blocks/framed_half_stairs": {
-    "criteria": {
-      "hasFramedStairs": "2025-01-16 04:39:55 +0000"
     },
     "done": true
   },
@@ -7982,18 +7994,6 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-01-16 05:01:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-01-16 03:29:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-01-16 04:47:27 +0000"
     },
     "done": true
   },
