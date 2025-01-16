@@ -824,6 +824,7 @@
       "minecraft:blaze": "2025-01-11 06:24:58 +0000",
       "minecraft:pillager": "2025-01-16 03:46:24 +0000",
       "minecraft:skeleton": "2025-01-11 02:06:55 +0000",
+      "minecraft:elder_guardian": "2025-01-16 05:39:47 +0000",
       "minecraft:ravager": "2025-01-16 04:13:59 +0000",
       "minecraft:guardian": "2025-01-15 23:14:50 +0000",
       "minecraft:vindicator": "2025-01-16 04:10:33 +0000",
@@ -7994,6 +7995,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-01-16 05:01:45 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:elder_guardian_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-16 05:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-01-16 05:40:00 +0000"
     },
     "done": true
   },
