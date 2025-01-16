@@ -13470,3 +13470,58 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [16Jan2025 04:24:32.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Jan2025 04:29:32.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jan2025 04:29:32.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 04:34:32.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 04:34:32.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jan2025 04:36:03.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has reached the goal [Postmortal]
+[16Jan2025 04:36:03.116] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:36:04.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Zombie
+[16Jan2025 04:36:04.337] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-802, y:70, z:1480, dim:minecraft:overworld]
+[16Jan2025 04:36:04.380] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:36:04.624] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 04:36:04.625] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 04:36:04.764] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[16Jan2025 04:36:04.861] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1737002164851
+[16Jan2025 04:36:18.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Zombie
+[16Jan2025 04:36:18.055] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-800, y:68, z:1485, dim:minecraft:overworld]
+[16Jan2025 04:36:18.083] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:36:18.303] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 04:36:18.304] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16Jan2025 04:36:18.509] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[16Jan2025 04:36:18.614] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1737002178480
+[16Jan2025 04:36:28.150] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/29842, l='ServerLevel[world]', x=-803.74, y=68.00, z=1483.05] died: facuamayitaa was burnt to a crisp whilst fighting facuamayitaa
+[16Jan2025 04:36:39.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Zombie
+[16Jan2025 04:36:39.060] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-809, y:68, z:1475, dim:minecraft:overworld]
+[16Jan2025 04:36:39.081] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:36:39.329] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 04:36:39.330] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jan2025 04:36:39.437] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[16Jan2025 04:36:39.501] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1737002199501
+[16Jan2025 04:37:12.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Zombie
+[16Jan2025 04:37:13.001] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-803, y:67, z:1509, dim:minecraft:overworld]
+[16Jan2025 04:37:13.019] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:37:13.206] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 04:37:13.206] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 04:37:13.311] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[16Jan2025 04:37:13.436] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1737002233391
+[16Jan2025 04:37:29.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Zombie
+[16Jan2025 04:37:30.011] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-784, y:66, z:1506, dim:minecraft:overworld]
+[16Jan2025 04:37:30.028] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:37:30.203] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 04:37:30.204] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 04:37:30.319] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[16Jan2025 04:37:30.432] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1737002250416
+[16Jan2025 04:37:49.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Zombie
+[16Jan2025 04:37:49.045] [Server thread/DEBUG] [tombstone/]: A new grave of the player facuamayitaa was created at position [x:-813, y:68, z:1498, dim:minecraft:overworld]
+[16Jan2025 04:37:49.072] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:37:49.219] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 04:37:49.219] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 04:37:49.306] [Server thread/DEBUG] [twilightforest/]: Player facuamayitaa (2c57ceca-de9a-37f3-b3ee-412b49fcb352) respawned and received items held in storage
+[16Jan2025 04:37:49.405] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1737002269404
+[16Jan2025 04:37:55.330] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by facuamayitaa
+[16Jan2025 04:38:03.526] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/30056, l='ServerLevel[world]', x=-804.66, y=68.00, z=1497.56] died: facuamayitaa was slain by facuamayitaa
+[16Jan2025 04:38:11.627] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/30233, l='ServerLevel[world]', x=-805.43, y=68.00, z=1497.78] died: facuamayitaa was slain by facuamayitaa
+[16Jan2025 04:38:21.197] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/30363, l='ServerLevel[world]', x=-804.36, y=68.00, z=1499.17] died: facuamayitaa was burnt to a crisp whilst fighting facuamayitaa
+[16Jan2025 04:38:21.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/29939, l='ServerLevel[world]', x=-804.52, y=68.00, z=1496.23] died: facuamayitaa was slain by facuamayitaa
+[16Jan2025 04:38:32.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/30521, l='ServerLevel[world]', x=-800.80, y=68.00, z=1500.21] died: facuamayitaa was burnt to a crisp whilst fighting facuamayitaa
+[16Jan2025 04:39:32.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jan2025 04:39:32.273] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -985,3 +985,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [16Jan2025 04:20:43.892] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21566, l='ServerLevel[world]', x=1442.82, y=67.00, z=-41.18] died, message: 'Villager was slain by Vindicator'
 [16Jan2025 04:22:36.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -820.500000, 68.000000, 1504.500000]
 [16Jan2025 04:22:36.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4697ms or 93 ticks behind
+[16Jan2025 04:36:03.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has reached the goal [Postmortal]
+[16Jan2025 04:36:03.116] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:36:04.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Zombie
+[16Jan2025 04:36:04.380] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:36:04.624] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 04:36:04.625] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 04:36:18.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Zombie
+[16Jan2025 04:36:18.083] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:36:18.303] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 04:36:18.304] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[16Jan2025 04:36:28.150] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/29842, l='ServerLevel[world]', x=-803.74, y=68.00, z=1483.05] died: facuamayitaa was burnt to a crisp whilst fighting facuamayitaa
+[16Jan2025 04:36:39.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Zombie
+[16Jan2025 04:36:39.081] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:36:39.329] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 04:36:39.330] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Jan2025 04:37:12.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Zombie
+[16Jan2025 04:37:13.019] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:37:13.206] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 04:37:13.206] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 04:37:29.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Zombie
+[16Jan2025 04:37:30.028] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:37:30.203] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 04:37:30.204] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 04:37:49.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa was slain by Zombie
+[16Jan2025 04:37:49.072] [Server thread/INFO] [tombstone/]: The player facuamayitaa has successfully been saved
+[16Jan2025 04:37:49.219] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Jan2025 04:37:49.219] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Jan2025 04:37:55.330] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by facuamayitaa
+[16Jan2025 04:38:03.526] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/30056, l='ServerLevel[world]', x=-804.66, y=68.00, z=1497.56] died: facuamayitaa was slain by facuamayitaa
+[16Jan2025 04:38:11.627] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/30233, l='ServerLevel[world]', x=-805.43, y=68.00, z=1497.78] died: facuamayitaa was slain by facuamayitaa
+[16Jan2025 04:38:21.197] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/30363, l='ServerLevel[world]', x=-804.36, y=68.00, z=1499.17] died: facuamayitaa was burnt to a crisp whilst fighting facuamayitaa
+[16Jan2025 04:38:21.424] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/29939, l='ServerLevel[world]', x=-804.52, y=68.00, z=1496.23] died: facuamayitaa was slain by facuamayitaa
+[16Jan2025 04:38:32.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['facuamayitaa'/30521, l='ServerLevel[world]', x=-800.80, y=68.00, z=1500.21] died: facuamayitaa was burnt to a crisp whilst fighting facuamayitaa
