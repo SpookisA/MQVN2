@@ -27,11 +27,13 @@
       "minecraft:windswept_hills": "2025-01-11 01:52:04 +0000",
       "minecraft:bamboo_jungle": "2025-01-11 02:27:43 +0000",
       "minecraft:beach": "2025-01-11 01:48:12 +0000",
+      "minecraft:dark_forest": "2025-01-16 03:56:10 +0000",
       "minecraft:sparse_jungle": "2025-01-11 02:26:47 +0000",
       "minecraft:river": "2025-01-11 01:48:04 +0000",
       "minecraft:snowy_plains": "2025-01-13 01:40:56 +0000",
       "minecraft:dripstone_caves": "2025-01-11 01:55:52 +0000",
       "minecraft:snowy_taiga": "2025-01-13 01:15:35 +0000",
+      "minecraft:swamp": "2025-01-16 03:58:24 +0000",
       "minecraft:cold_ocean": "2025-01-11 07:21:15 +0000",
       "minecraft:forest": "2025-01-11 01:52:55 +0000",
       "minecraft:ice_spikes": "2025-01-13 01:11:56 +0000",
@@ -539,6 +541,7 @@
       "bread": "2025-01-11 06:03:42 +0000",
       "golden_apple": "2025-01-11 23:29:36 +0000",
       "cookie": "2025-01-15 23:05:27 +0000",
+      "rotten_flesh": "2025-01-16 03:44:02 +0000",
       "cooked_rabbit": "2025-01-11 03:17:57 +0000",
       "cooked_chicken": "2025-01-15 23:06:16 +0000",
       "cod": "2025-01-11 02:03:01 +0000"
@@ -818,6 +821,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-01-11 06:24:58 +0000",
+      "minecraft:pillager": "2025-01-16 03:46:24 +0000",
       "minecraft:skeleton": "2025-01-11 02:06:55 +0000",
       "minecraft:guardian": "2025-01-15 23:14:50 +0000",
       "minecraft:spider": "2025-01-11 02:10:16 +0000",
@@ -4671,7 +4675,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-01-11 06:26:10 +0000",
-      "minecraft:warped_forest": "2025-01-11 06:18:11 +0000"
+      "minecraft:warped_forest": "2025-01-11 06:18:11 +0000",
+      "minecraft:basalt_deltas": "2025-01-16 03:32:06 +0000"
     },
     "done": false
   },
@@ -7840,6 +7845,66 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-15 23:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-16 03:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-16 03:46:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-01-16 03:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-16 03:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-16 03:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-16 03:29:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-16 03:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-16 03:45:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-16 03:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-16 03:29:43 +0000"
     },
     "done": true
   },
