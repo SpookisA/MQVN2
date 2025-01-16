@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-13 01:15:43 +0000",
+      "minecraft:deep_ocean": "2025-01-15 23:10:27 +0000",
       "minecraft:cherry_grove": "2025-01-11 03:40:28 +0000",
       "minecraft:sunflower_plains": "2025-01-11 03:12:16 +0000",
       "minecraft:birch_forest": "2025-01-11 02:31:54 +0000",
@@ -35,6 +36,7 @@
       "minecraft:forest": "2025-01-11 01:52:55 +0000",
       "minecraft:ice_spikes": "2025-01-13 01:11:56 +0000",
       "minecraft:frozen_ocean": "2025-01-13 01:12:11 +0000",
+      "minecraft:desert": "2025-01-16 02:53:10 +0000",
       "minecraft:windswept_forest": "2025-01-11 01:52:29 +0000",
       "minecraft:jungle": "2025-01-11 02:30:44 +0000",
       "minecraft:ocean": "2025-01-12 22:13:35 +0000",
@@ -535,7 +537,9 @@
       "mutton": "2025-01-11 02:24:22 +0000",
       "bread": "2025-01-11 06:03:42 +0000",
       "golden_apple": "2025-01-11 23:29:36 +0000",
+      "cookie": "2025-01-15 23:05:27 +0000",
       "cooked_rabbit": "2025-01-11 03:17:57 +0000",
+      "cooked_chicken": "2025-01-15 23:06:16 +0000",
       "cod": "2025-01-11 02:03:01 +0000"
     },
     "done": false
@@ -814,6 +818,7 @@
     "criteria": {
       "minecraft:blaze": "2025-01-11 06:24:58 +0000",
       "minecraft:skeleton": "2025-01-11 02:06:55 +0000",
+      "minecraft:guardian": "2025-01-15 23:14:50 +0000",
       "minecraft:spider": "2025-01-11 02:10:16 +0000",
       "minecraft:creeper": "2025-01-11 06:01:38 +0000",
       "minecraft:slime": "2025-01-11 03:04:10 +0000",
@@ -7579,6 +7584,24 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-01-15 22:25:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-15 22:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-15 22:44:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_bath": {
     "criteria": {
       "has_pink_dye": "2025-01-15 22:45:36 +0000"
@@ -7615,12 +7638,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-01-15 22:44:28 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-15 22:45:36 +0000"
@@ -7630,12 +7647,6 @@
   "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-15 22:45:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-01-15 22:44:28 +0000"
     },
     "done": true
   },
@@ -7660,12 +7671,6 @@
   "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
     "criteria": {
       "has_pink_dye": "2025-01-15 22:45:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2025-01-15 22:25:48 +0000"
     },
     "done": true
   },
@@ -7720,6 +7725,120 @@
   "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-15 22:45:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-01-15 23:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-01-15 23:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-01-15 23:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-01-15 23:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-01-15 23:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-01-15 23:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-01-15 23:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-01-15 23:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-01-15 23:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-01-15 23:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-15 23:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-15 23:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-15 23:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-15 23:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-01-15 23:13:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-01-15 23:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-15 23:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-15 23:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-15 23:14:54 +0000"
     },
     "done": true
   },

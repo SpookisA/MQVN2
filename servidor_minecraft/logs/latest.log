@@ -1,94 +1,94 @@
-[15Jan2025 22:11:34.275] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[15Jan2025 22:11:34.279] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[15Jan2025 22:11:36.121] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[15Jan2025 22:11:36.138] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[15Jan2025 22:11:36.140] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/MQVN2/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6%20(1).jar%23142!/
-[15Jan2025 22:11:36.149] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/MQVN2/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6 (1).jar
-[15Jan2025 22:11:36.151] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[15Jan2025 22:11:36.222] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MQVN2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[15Jan2025 22:11:36.234] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[15Jan2025 22:11:36.687] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[15Jan2025 22:11:36.689] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Jan2025 22:11:36.690] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Jan2025 22:11:36.691] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[15Jan2025 22:11:37.271] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[15Jan2025 22:11:37.275] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[15Jan2025 22:11:38.418] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[15Jan2025 22:11:38.429] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[15Jan2025 22:11:39.944] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[15Jan2025 22:11:41.470] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[15Jan2025 22:11:41.683] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[15Jan2025 22:11:42.009] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Jan2025 22:11:42.056] [main/WARN] [mixin/]: Reference map 'LesRaisinsAddon_1201.refmap.json' for lradd.mixins.json could not be read. If this is a development environment you can ignore this message
-[15Jan2025 22:11:44.827] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[15Jan2025 22:11:45.030] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[15Jan2025 22:11:55.244] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zed000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[15Jan2025 22:11:57.753] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[15Jan2025 22:11:57.770] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[15Jan2025 22:11:58.019] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[15Jan2025 22:11:58.020] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[15Jan2025 22:11:58.022] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[15Jan2025 22:11:58.023] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[15Jan2025 22:11:58.024] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[15Jan2025 22:11:58.026] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[15Jan2025 22:11:58.031] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[15Jan2025 22:11:58.033] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[15Jan2025 22:11:58.171] [modloading-worker-0/ERROR] [majruszsdifficulty/]: Failed to find class: java.util.zip.ZipException: zip END header not found
-[15Jan2025 22:11:58.252] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[15Jan2025 22:11:58.269] [modloading-worker-0/INFO] [Devices Mod/]: Creating Creative Tab...
-[15Jan2025 22:11:58.328] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Initializing registration handler and mod config.
-[15Jan2025 22:11:58.669] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering common setup handler, and load complete handler.
-[15Jan2025 22:11:58.691] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering server setup handler.
-[15Jan2025 22:11:58.703] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering the reload listener.
-[15Jan2025 22:11:58.707] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering mod class to forge events.
-[15Jan2025 22:11:59.082] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[15Jan2025 22:12:04.436] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[15Jan2025 22:12:04.437] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[15Jan2025 22:12:04.613] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[15Jan2025 22:12:04.800] [modloading-worker-0/INFO] [Configuration/FileWatching]: Registered collectorsalbum config for auto-sync function
-[15Jan2025 22:12:04.965] [modloading-worker-0/ERROR] [majruszlibrary/]: Failed to find class: java.util.zip.ZipException: zip END header not found
-[15Jan2025 22:12:11.168] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[15Jan2025 22:12:11.178] [modloading-worker-0/INFO] [Devices Mod/]: Doing some common setup.
-[15Jan2025 22:12:11.192] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/2f18a26b1e0c3f048a3d73a822f8669e
-[15Jan2025 22:12:11.195] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/b45afe52425036fd91fbe736d62d8686
-[15Jan2025 22:12:11.201] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/e2a6a8b6270d3c338a30c4774f5aadc2
-[15Jan2025 22:12:11.203] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/d86b1a6540e83487a1a0a6d75a9e9e85
-[15Jan2025 22:12:11.205] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/68177ab5333a3225896c4373707ce286
-[15Jan2025 22:12:11.210] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/6fcc830bcdc33ed8bfb4a9b5c4fa3f93
-[15Jan2025 22:12:11.215] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/a17f7903c43c3e86997b30403506145b
-[15Jan2025 22:12:11.226] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/678b9b9b076c3ab19dbff4b7fd22a419
-[15Jan2025 22:12:11.242] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'update_application_data'
-[15Jan2025 22:12:11.243] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'print'
-[15Jan2025 22:12:11.248] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'update_system_data'
-[15Jan2025 22:12:11.251] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'connect'
-[15Jan2025 22:12:11.256] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'ping'
-[15Jan2025 22:12:11.258] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_network_devices'
-[15Jan2025 22:12:11.262] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'send_action'
-[15Jan2025 22:12:11.267] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_file_system'
-[15Jan2025 22:12:11.280] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_files'
-[15Jan2025 22:12:11.282] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_folder_structure'
-[15Jan2025 22:12:11.286] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_main_drive'
-[15Jan2025 22:12:11.291] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'install_app'
-[15Jan2025 22:12:11.307] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'update_inbox'
-[15Jan2025 22:12:11.309] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'send_email'
-[15Jan2025 22:12:11.313] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'check_email_account'
-[15Jan2025 22:12:11.314] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'register_email_account'
-[15Jan2025 22:12:11.315] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'delete_email'
-[15Jan2025 22:12:11.315] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'view_email'
-[15Jan2025 22:12:11.642] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
-[15Jan2025 22:12:12.065] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
-[15Jan2025 22:12:12.066] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[15Jan2025 22:12:12.459] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[15Jan2025 22:12:12.459] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[15Jan2025 22:12:12.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[15Jan2025 22:12:12.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[15Jan2025 22:12:12.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
-[15Jan2025 22:12:12.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[15Jan2025 22:12:13.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[15Jan2025 22:12:13.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[15Jan2025 22:12:13.021] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
-[15Jan2025 22:12:13.021] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[15Jan2025 22:12:13.217] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[16Jan2025 02:49:57.510] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[16Jan2025 02:49:57.527] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[16Jan2025 02:50:00.423] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16Jan2025 02:50:00.448] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[16Jan2025 02:50:00.450] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/MQVN2/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6%20(1).jar%23142!/
+[16Jan2025 02:50:00.465] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/MQVN2/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6 (1).jar
+[16Jan2025 02:50:00.470] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[16Jan2025 02:50:00.562] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MQVN2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[16Jan2025 02:50:00.573] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[16Jan2025 02:50:01.374] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[16Jan2025 02:50:01.381] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Jan2025 02:50:01.383] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Jan2025 02:50:01.386] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Jan2025 02:50:02.793] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[16Jan2025 02:50:02.794] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[16Jan2025 02:50:05.679] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[16Jan2025 02:50:05.697] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[16Jan2025 02:50:07.619] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[16Jan2025 02:50:10.717] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Jan2025 02:50:10.982] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Jan2025 02:50:12.255] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Jan2025 02:50:12.364] [main/WARN] [mixin/]: Reference map 'LesRaisinsAddon_1201.refmap.json' for lradd.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Jan2025 02:50:15.382] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[16Jan2025 02:50:15.709] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[16Jan2025 02:50:26.740] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zed000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[16Jan2025 02:50:29.330] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[16Jan2025 02:50:29.345] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[16Jan2025 02:50:29.598] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[16Jan2025 02:50:29.606] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[16Jan2025 02:50:29.608] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[16Jan2025 02:50:29.610] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[16Jan2025 02:50:29.611] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[16Jan2025 02:50:29.614] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[16Jan2025 02:50:29.619] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[16Jan2025 02:50:29.620] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[16Jan2025 02:50:29.801] [modloading-worker-0/ERROR] [majruszsdifficulty/]: Failed to find class: java.util.zip.ZipException: zip END header not found
+[16Jan2025 02:50:29.853] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[16Jan2025 02:50:29.870] [modloading-worker-0/INFO] [Devices Mod/]: Creating Creative Tab...
+[16Jan2025 02:50:29.925] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Initializing registration handler and mod config.
+[16Jan2025 02:50:30.037] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering common setup handler, and load complete handler.
+[16Jan2025 02:50:30.039] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering server setup handler.
+[16Jan2025 02:50:30.041] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering the reload listener.
+[16Jan2025 02:50:30.057] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering mod class to forge events.
+[16Jan2025 02:50:30.674] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[16Jan2025 02:50:36.477] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[16Jan2025 02:50:36.489] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[16Jan2025 02:50:36.713] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[16Jan2025 02:50:36.913] [modloading-worker-0/INFO] [Configuration/FileWatching]: Registered collectorsalbum config for auto-sync function
+[16Jan2025 02:50:37.288] [modloading-worker-0/ERROR] [majruszlibrary/]: Failed to find class: java.util.zip.ZipException: zip END header not found
+[16Jan2025 02:50:43.683] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[16Jan2025 02:50:43.699] [modloading-worker-0/INFO] [Devices Mod/]: Doing some common setup.
+[16Jan2025 02:50:43.705] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/2f18a26b1e0c3f048a3d73a822f8669e
+[16Jan2025 02:50:43.706] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/b45afe52425036fd91fbe736d62d8686
+[16Jan2025 02:50:43.707] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/e2a6a8b6270d3c338a30c4774f5aadc2
+[16Jan2025 02:50:43.709] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/d86b1a6540e83487a1a0a6d75a9e9e85
+[16Jan2025 02:50:43.710] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/68177ab5333a3225896c4373707ce286
+[16Jan2025 02:50:43.716] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/6fcc830bcdc33ed8bfb4a9b5c4fa3f93
+[16Jan2025 02:50:43.720] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/a17f7903c43c3e86997b30403506145b
+[16Jan2025 02:50:43.721] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/678b9b9b076c3ab19dbff4b7fd22a419
+[16Jan2025 02:50:43.734] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'update_application_data'
+[16Jan2025 02:50:43.735] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'print'
+[16Jan2025 02:50:43.736] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'update_system_data'
+[16Jan2025 02:50:43.737] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'connect'
+[16Jan2025 02:50:43.745] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'ping'
+[16Jan2025 02:50:43.746] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_network_devices'
+[16Jan2025 02:50:43.747] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'send_action'
+[16Jan2025 02:50:43.748] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_file_system'
+[16Jan2025 02:50:43.748] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_files'
+[16Jan2025 02:50:43.749] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_folder_structure'
+[16Jan2025 02:50:43.750] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_main_drive'
+[16Jan2025 02:50:43.753] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'install_app'
+[16Jan2025 02:50:43.754] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'update_inbox'
+[16Jan2025 02:50:43.756] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'send_email'
+[16Jan2025 02:50:43.756] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'check_email_account'
+[16Jan2025 02:50:43.762] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'register_email_account'
+[16Jan2025 02:50:43.762] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'delete_email'
+[16Jan2025 02:50:43.764] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'view_email'
+[16Jan2025 02:50:44.270] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[16Jan2025 02:50:44.679] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[16Jan2025 02:50:44.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[16Jan2025 02:50:45.069] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[16Jan2025 02:50:45.070] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[16Jan2025 02:50:45.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[16Jan2025 02:50:45.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[16Jan2025 02:50:45.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
+[16Jan2025 02:50:45.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[16Jan2025 02:50:45.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[16Jan2025 02:50:45.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[16Jan2025 02:50:45.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[16Jan2025 02:50:45.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[16Jan2025 02:50:45.916] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -103,8 +103,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[15Jan2025 22:12:13.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[15Jan2025 22:12:13.251] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[16Jan2025 02:50:45.918] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[16Jan2025 02:50:45.944] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -119,28 +119,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[15Jan2025 22:12:13.257] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[15Jan2025 22:12:13.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[15Jan2025 22:12:13.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[15Jan2025 22:12:13.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[15Jan2025 22:12:13.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[15Jan2025 22:12:13.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
-[15Jan2025 22:12:13.408] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[15Jan2025 22:12:13.409] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[15Jan2025 22:12:13.409] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[15Jan2025 22:12:13.409] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[15Jan2025 22:12:13.410] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[15Jan2025 22:12:13.410] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[15Jan2025 22:12:13.411] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[15Jan2025 22:12:13.411] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[15Jan2025 22:12:13.612] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[15Jan2025 22:12:13.635] [modloading-worker-0/INFO] [Devices Mod/]: Doing some server setup.
-[15Jan2025 22:12:13.677] [modloading-worker-0/INFO] [Devices Mod/]: Doing some load complete handling.
-[15Jan2025 22:12:21.921] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15Jan2025 22:12:27.188] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MQVN2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
-[15Jan2025 22:12:27.191] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MQVN2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
-[15Jan2025 22:12:43.721] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
-[15Jan2025 22:12:46.674] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/lime
+[16Jan2025 02:50:45.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[16Jan2025 02:50:45.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[16Jan2025 02:50:45.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Jan2025 02:50:46.074] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[16Jan2025 02:50:46.074] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[16Jan2025 02:50:46.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[16Jan2025 02:50:46.118] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[16Jan2025 02:50:46.119] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[16Jan2025 02:50:46.119] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[16Jan2025 02:50:46.119] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[16Jan2025 02:50:46.119] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[16Jan2025 02:50:46.119] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[16Jan2025 02:50:46.119] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[16Jan2025 02:50:46.120] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[16Jan2025 02:50:46.300] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[16Jan2025 02:50:46.321] [modloading-worker-0/INFO] [Devices Mod/]: Doing some server setup.
+[16Jan2025 02:50:46.356] [modloading-worker-0/INFO] [Devices Mod/]: Doing some load complete handling.
+[16Jan2025 02:50:54.536] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Jan2025 02:50:59.932] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MQVN2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
+[16Jan2025 02:50:59.934] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MQVN2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
+[16Jan2025 02:51:14.859] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
+[16Jan2025 02:51:18.450] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/lime
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -178,7 +178,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.679] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/yellow
+[16Jan2025 02:51:18.454] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/yellow
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wool'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -216,7 +216,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wool'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.684] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/blue
+[16Jan2025 02:51:18.462] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/blue
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -254,9 +254,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.694] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[15Jan2025 22:12:46.703] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[15Jan2025 22:12:46.731] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/magenta
+[16Jan2025 02:51:18.474] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[16Jan2025 02:51:18.487] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[16Jan2025 02:51:18.509] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/magenta
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -294,7 +294,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.757] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/purple
+[16Jan2025 02:51:18.532] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/purple
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -332,9 +332,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.780] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[15Jan2025 22:12:46.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[15Jan2025 22:12:46.825] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/cyan
+[16Jan2025 02:51:18.549] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[16Jan2025 02:51:18.571] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[16Jan2025 02:51:18.591] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/cyan
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -372,7 +372,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.866] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/brown
+[16Jan2025 02:51:18.635] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/brown
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -410,8 +410,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.874] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[15Jan2025 22:12:46.882] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/silver
+[16Jan2025 02:51:18.650] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[16Jan2025 02:51:18.656] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/silver
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wool'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -449,7 +449,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wool'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.893] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/red
+[16Jan2025 02:51:18.669] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/red
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -487,7 +487,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.900] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/gray
+[16Jan2025 02:51:18.681] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/gray
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -525,7 +525,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.924] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/white
+[16Jan2025 02:51:18.702] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/white
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wool'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -563,7 +563,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wool'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.938] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/pink
+[16Jan2025 02:51:18.711] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/pink
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:ping_wool'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -601,7 +601,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:ping_wool'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.960] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/black
+[16Jan2025 02:51:18.717] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/black
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -639,8 +639,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.962] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[15Jan2025 22:12:46.964] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/green
+[16Jan2025 02:51:18.721] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[16Jan2025 02:51:18.723] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/green
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -678,9 +678,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.972] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[15Jan2025 22:12:46.979] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[15Jan2025 22:12:46.980] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/orange
+[16Jan2025 02:51:18.727] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[16Jan2025 02:51:18.733] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[16Jan2025 02:51:18.735] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/orange
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -718,7 +718,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.982] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/light_blue
+[16Jan2025 02:51:18.738] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/light_blue
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -756,159 +756,74 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[15Jan2025 22:12:46.991] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
-[15Jan2025 22:12:47.390] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4262 advancements
-[15Jan2025 22:12:47.627] [main/INFO] [Dungeon Crawl/]: Loading data...
-[15Jan2025 22:12:48.182] [main/INFO] [Dungeon Crawl/]: Done.
-[15Jan2025 22:12:48.202] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[15Jan2025 22:12:48.216] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[15Jan2025 22:12:48.226] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[15Jan2025 22:12:48.234] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[16Jan2025 02:51:18.744] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
+[16Jan2025 02:51:19.145] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4262 advancements
+[16Jan2025 02:51:19.376] [main/INFO] [Dungeon Crawl/]: Loading data...
+[16Jan2025 02:51:20.012] [main/INFO] [Dungeon Crawl/]: Done.
+[16Jan2025 02:51:20.028] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[16Jan2025 02:51:20.043] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[16Jan2025 02:51:20.056] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[16Jan2025 02:51:20.065] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[15Jan2025 22:13:22.553] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 17 milliseconds
-[15Jan2025 22:13:22.556] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
-[15Jan2025 22:13:22.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[15Jan2025 22:13:22.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[15Jan2025 22:13:22.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[15Jan2025 22:13:22.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[15Jan2025 22:13:23.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[15Jan2025 22:13:23.263] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[15Jan2025 22:13:23.398] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15Jan2025 22:13:23.399] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[15Jan2025 22:13:23.399] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15Jan2025 22:13:23.400] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[15Jan2025 22:13:23.666] [Server thread/INFO] [Framework/]: Loading server configs...
-[15Jan2025 22:13:23.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[15Jan2025 22:13:34.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[15Jan2025 22:13:43.174] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[15Jan2025 22:13:43.977] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:13:43.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:13:43.986] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:15.512] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[15Jan2025 22:14:07.739] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[15Jan2025 22:14:22.489] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[15Jan2025 22:14:22.493] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.498] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.499] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.499] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.503] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.505] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.506] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.509] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.511] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.513] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.517] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.520] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.522] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.524] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.527] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.531] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.533] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.535] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.538] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.540] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.542] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.544] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.545] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.547] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.550] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.552] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.555] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.558] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.561] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.564] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.567] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.570] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.573] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.576] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.579] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.583] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.595] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.600] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.604] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.608] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.613] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.623] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.624] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.625] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.625] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.626] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.631] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.635] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.637] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.639] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.642] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.643] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.644] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.645] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.648] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.653] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.653] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.656] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.657] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.658] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.661] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.664] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.668] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.670] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.677] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.682] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.685] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.689] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.703] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.708] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.710] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.713] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.714] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.715] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.716] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.717] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.717] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.718] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.719] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.720] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.720] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.721] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.722] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.739] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.739] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.741] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.748] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.750] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.751] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.753] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.753] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.754] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:22.755] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:23.151] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:23.648] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:24.148] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:24.650] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[15Jan2025 22:14:25.153] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[15Jan2025 22:14:25.416] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 50768 ms
-[15Jan2025 22:14:25.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (62.000s)! For help, type "help"
-[15Jan2025 22:14:25.605] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[15Jan2025 22:14:25.622] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[15Jan2025 22:14:25.622] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[15Jan2025 22:14:38.227] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[15Jan2025 22:14:38.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuamayitaa[/127.47.93.245:37399] logged in with entity id 439 at (-819.5318596194651, 68.0, 1499.9008376664185)
-[15Jan2025 22:14:38.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa joined the game
-[15Jan2025 22:14:38.943] [Server thread/INFO] [Devices Mod/]: Player logged in: literal{facuamayitaa}
-[15Jan2025 22:14:45.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7262ms or 145 ticks behind
-[15Jan2025 22:15:19.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18461ms or 369 ticks behind
-[15Jan2025 22:15:36.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
-[15Jan2025 22:16:29.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[15Jan2025 22:16:49.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4630ms or 92 ticks behind
-[15Jan2025 22:17:58.589] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
-[15Jan2025 22:25:48.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Splintering II]
-[15Jan2025 22:29:36.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[15Jan2025 22:41:33.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -89.500000, 111.000000, 183.500000]
-[15Jan2025 22:49:01.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuamayitaa moved too quickly! -8.65463611460791,-5.495504135427751,-0.3377614082226046
-[15Jan2025 22:51:47.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-793, y=58, z=1484} BlockPos{x=-793, y=53, z=1489}
-[15Jan2025 22:51:50.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-793, y=52, z=1485} BlockPos{x=-793, y=50, z=1486}
-[15Jan2025 22:58:06.597] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/6812, l='ServerLevel[world]', x=-908.50, y=90.50, z=1423.70] died, message: 'Nitwit bled to death'
-[15Jan2025 23:00:57.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6767, l='ServerLevel[world]', x=-895.05, y=88.00, z=1549.68] died, message: 'Villager was slain by Zombie'
-[15Jan2025 23:01:17.471] [Server thread/INFO] [Scaling Health/]: Blight Spider was killed by facuamayitaa
+[16Jan2025 02:51:24.827] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 23 milliseconds
+[16Jan2025 02:51:24.830] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
+[16Jan2025 02:51:24.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[16Jan2025 02:51:24.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Jan2025 02:51:24.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Jan2025 02:51:24.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Jan2025 02:51:25.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Jan2025 02:51:25.242] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Jan2025 02:51:25.401] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Jan2025 02:51:25.401] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Jan2025 02:51:25.402] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Jan2025 02:51:25.402] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Jan2025 02:51:25.651] [Server thread/INFO] [Framework/]: Loading server configs...
+[16Jan2025 02:51:25.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Jan2025 02:51:27.224] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[16Jan2025 02:51:33.625] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[16Jan2025 02:51:36.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Jan2025 02:51:42.974] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[16Jan2025 02:51:46.847] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.848] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.849] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.850] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.851] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.852] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.856] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.864] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.865] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.869] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.873] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.877] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.879] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.883] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.888] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.895] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.902] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.907] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.912] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.917] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.921] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:46.926] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:47.061] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:47.561] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:48.060] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:48.560] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:49.082] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Jan2025 02:51:49.397] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 13337 ms
+[16Jan2025 02:51:49.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.969s)! For help, type "help"
+[16Jan2025 02:51:49.522] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16Jan2025 02:51:49.553] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[16Jan2025 02:51:49.554] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[16Jan2025 02:51:58.213] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[16Jan2025 02:51:58.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuamayitaa[/127.47.93.245:57415] logged in with entity id 439 at (-722.3436524884323, 64.0, -95.15967428197298)
+[16Jan2025 02:51:58.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa joined the game
+[16Jan2025 02:51:59.055] [Server thread/INFO] [Devices Mod/]: Player logged in: literal{facuamayitaa}
+[16Jan2025 02:52:05.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7363ms or 147 ticks behind
+[16Jan2025 02:52:29.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8616ms or 172 ticks behind
+[16Jan2025 02:55:03.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[16Jan2025 02:55:21.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
+[16Jan2025 02:58:00.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -820.500000, 68.000000, 1504.500000]
+[16Jan2025 02:58:02.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
