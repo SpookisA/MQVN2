@@ -828,6 +828,7 @@
       "minecraft:ravager": "2025-01-16 04:13:59 +0000",
       "minecraft:guardian": "2025-01-15 23:14:50 +0000",
       "minecraft:vindicator": "2025-01-16 04:10:33 +0000",
+      "minecraft:magma_cube": "2025-01-16 21:58:27 +0000",
       "minecraft:spider": "2025-01-11 02:10:16 +0000",
       "minecraft:creeper": "2025-01-11 06:01:38 +0000",
       "minecraft:slime": "2025-01-11 03:04:10 +0000",
@@ -8013,6 +8014,18 @@
   "framedblocks:recipes/building_blocks/framed_large_button": {
     "criteria": {
       "hasFramedButton": "2025-01-16 05:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-01-16 21:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-01-16 21:50:12 +0000"
     },
     "done": true
   },
