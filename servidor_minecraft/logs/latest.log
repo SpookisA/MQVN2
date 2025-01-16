@@ -796,3 +796,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [16Jan2025 21:27:06.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5401ms or 108 ticks behind
 [16Jan2025 21:32:08.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/532, l='ServerLevel[world]', x=-853.34, y=91.50, z=1449.87] died, message: 'Nitwit was slain by Zombie'
 [16Jan2025 21:53:59.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[16Jan2025 22:09:05.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Those Were the Days]
+[16Jan2025 22:09:28.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [War Pigs]
+[16Jan2025 22:09:32.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Your First Receptacle]
+[16Jan2025 22:09:34.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Hidden in the Depths]
+[16Jan2025 22:11:01.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Who is Cutting Onions?]
