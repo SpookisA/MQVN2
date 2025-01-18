@@ -816,3 +816,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [18Jan2025 22:21:43.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Gave 1 [Skeleton Skull] to facuamayitaa]
 [18Jan2025 22:21:52.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
 [18Jan2025 22:25:12.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Gave 1 [Skeleton Spawn Egg] to facuamayitaa]
+[18Jan2025 22:32:28.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Spooky Scary Skeleton]
+[18Jan2025 22:32:28.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Gave 3 [Wither Skeleton Skull] to facuamayitaa]
