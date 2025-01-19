@@ -8267,6 +8267,54 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-19 06:03:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 06:04:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-19 06:04:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-19 06:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-19 06:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-19 06:04:29 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-19 06:04:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-19 06:04:29 +0000"
+    },
+    "done": true
+  },
   "devices:recipes/decorations/light_gray_laptop": {
     "criteria": {
       "has_the_recipe": "2025-01-19 06:09:13 +0000"
@@ -8315,18 +8363,6 @@
     },
     "done": true
   },
-  "minecraft:nether/create_full_beacon": {
-    "criteria": {
-      "beacon": "2025-01-19 06:09:32 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-01-19 06:04:12 +0000"
-    },
-    "done": true
-  },
   "devices:recipes/devices.devices_mod_tab/gray_laptop": {
     "criteria": {
       "has_beacon": "2025-01-19 06:09:13 +0000"
@@ -8363,27 +8399,9 @@
     },
     "done": true
   },
-  "casinocraft:recipes/misc/item_book": {
-    "criteria": {
-      "has_paper": "2025-01-19 06:14:55 +0000"
-    },
-    "done": true
-  },
   "devices:recipes/devices.devices_mod_tab/white_laptop": {
     "criteria": {
       "has_beacon": "2025-01-19 06:09:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-01-19 06:17:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-01-19 06:03:29 +0000"
     },
     "done": true
   },
@@ -8411,12 +8429,6 @@
     },
     "done": true
   },
-  "minecraft:nether/create_beacon": {
-    "criteria": {
-      "beacon": "2025-01-19 06:09:32 +0000"
-    },
-    "done": true
-  },
   "devices:recipes/devices.devices_mod_tab/lime_laptop": {
     "criteria": {
       "has_beacon": "2025-01-19 06:09:13 +0000"
@@ -8441,27 +8453,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-01-19 06:04:29 +0000"
-    },
-    "done": true
-  },
   "devices:recipes/decorations/red_laptop": {
     "criteria": {
       "has_the_recipe": "2025-01-19 06:09:13 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-01-19 06:04:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-01-19 06:04:23 +0000"
     },
     "done": true
   },
@@ -8489,21 +8483,9 @@
     },
     "done": true
   },
-  "majruszsdifficulty:wither_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2025-01-19 06:04:29 +0000"
-    },
-    "done": true
-  },
   "devices:recipes/devices.devices_mod_tab/light_gray_laptop": {
     "criteria": {
       "has_beacon": "2025-01-19 06:09:13 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-01-19 06:04:29 +0000"
     },
     "done": true
   },
@@ -8525,9 +8507,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "minecraft:nether/create_full_beacon": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-01-19 06:04:12 +0000"
+      "beacon": "2025-01-19 06:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-01-19 06:09:32 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/misc/item_book": {
+    "criteria": {
+      "has_paper": "2025-01-19 06:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-19 06:17:09 +0000"
     },
     "done": true
   },
