@@ -8363,9 +8363,21 @@
     },
     "done": true
   },
+  "casinocraft:recipes/misc/item_book": {
+    "criteria": {
+      "has_paper": "2025-01-19 06:14:55 +0000"
+    },
+    "done": true
+  },
   "devices:recipes/devices.devices_mod_tab/white_laptop": {
     "criteria": {
       "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-19 06:17:09 +0000"
     },
     "done": true
   },
