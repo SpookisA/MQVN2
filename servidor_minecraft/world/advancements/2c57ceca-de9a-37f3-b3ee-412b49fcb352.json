@@ -833,6 +833,7 @@
       "minecraft:spider": "2025-01-11 02:10:16 +0000",
       "minecraft:piglin_brute": "2025-01-16 22:12:20 +0000",
       "minecraft:creeper": "2025-01-11 06:01:38 +0000",
+      "minecraft:wither": "2025-01-19 06:04:12 +0000",
       "minecraft:slime": "2025-01-11 03:04:10 +0000",
       "minecraft:evoker": "2025-01-16 04:17:41 +0000",
       "minecraft:witch": "2025-01-16 04:13:35 +0000",
@@ -8266,9 +8267,255 @@
     },
     "done": true
   },
+  "devices:recipes/decorations/light_gray_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/red_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/cyan_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/magenta_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/pink_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/light_blue_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/pink_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/yellow_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-01-19 06:09:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-01-19 06:04:12 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/gray_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/yellow_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/brown_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/orange_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/gray_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/cyan_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/white_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-01-19 06:03:29 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/purple_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/purple_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/light_blue_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/blue_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-01-19 06:09:32 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/lime_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/green_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/black_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/orange_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-19 06:04:29 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/red_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-01-19 06:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-01-19 06:04:23 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/lime_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/blue_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/brown_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/white_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:wither_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-19 06:04:29 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/light_gray_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-01-19 06:04:29 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/decorations/black_laptop": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/green_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "devices:recipes/devices.devices_mod_tab/magenta_laptop": {
+    "criteria": {
+      "has_beacon": "2025-01-19 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-01-19 06:04:12 +0000"
     },
     "done": true
   },
