@@ -7821,3 +7821,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [19Jan2025 06:48:53.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Jan2025 06:53:53.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jan2025 06:53:53.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 06:58:53.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 06:58:53.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 07:03:53.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 07:03:53.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 07:05:49.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuamayitaa lost connection: Disconnected
+[19Jan2025 07:05:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa left the game
+[19Jan2025 07:05:49.246] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-798, y=69, z=1480}
+[19Jan2025 07:05:49.247] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-802, y=69, z=1496}
+[19Jan2025 07:05:49.247] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-818, y=68, z=1494}
+[19Jan2025 07:05:49.247] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-802, y=69, z=1495}
+[19Jan2025 07:05:49.247] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-802, y=68, z=1494}
+[19Jan2025 07:05:49.247] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-800, y=69, z=1480}
+[19Jan2025 07:05:49.247] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-795, y=69, z=1481}
+[19Jan2025 07:05:49.247] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-802, y=73, z=1487}
