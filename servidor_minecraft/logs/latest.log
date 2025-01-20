@@ -883,3 +883,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [20Jan2025 22:35:23.390] [Server thread/INFO] [Devices Mod/]: Player logged in: literal{facuamayitaa}
 [20Jan2025 22:35:29.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6487ms or 129 ticks behind
 [20Jan2025 22:36:05.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21843ms or 436 ticks behind
+[20Jan2025 22:42:42.791] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
