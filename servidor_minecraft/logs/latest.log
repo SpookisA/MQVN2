@@ -1,303 +1,123 @@
-[19Jan2025 05:46:43.290] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[19Jan2025 05:46:43.294] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[19Jan2025 05:46:44.899] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[19Jan2025 05:46:44.915] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[19Jan2025 05:46:44.917] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/MQVN2/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6%20(1).jar%23146!/
-[19Jan2025 05:46:44.927] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/MQVN2/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6 (1).jar
-[19Jan2025 05:46:44.929] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[19Jan2025 05:46:44.998] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MQVN2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[19Jan2025 05:46:45.011] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[19Jan2025 05:46:45.540] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[19Jan2025 05:46:45.541] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Jan2025 05:46:45.542] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Jan2025 05:46:45.543] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Jan2025 05:46:46.098] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[19Jan2025 05:46:46.099] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[19Jan2025 05:46:47.132] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[19Jan2025 05:46:47.150] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[19Jan2025 05:46:48.652] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[19Jan2025 05:46:50.241] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Jan2025 05:46:50.490] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[19Jan2025 05:46:50.494] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[19Jan2025 05:46:50.711] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Jan2025 05:46:50.754] [main/WARN] [mixin/]: Reference map 'LesRaisinsAddon_1201.refmap.json' for lradd.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Jan2025 05:46:52.874] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[19Jan2025 05:46:53.053] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[19Jan2025 05:47:02.404] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zed000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[19Jan2025 05:47:04.745] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[19Jan2025 05:47:04.772] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[19Jan2025 05:47:05.208] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[19Jan2025 05:47:05.209] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[19Jan2025 05:47:05.221] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[19Jan2025 05:47:05.223] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[19Jan2025 05:47:05.224] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[19Jan2025 05:47:05.225] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[19Jan2025 05:47:05.229] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[19Jan2025 05:47:05.230] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[19Jan2025 05:47:05.236] [modloading-worker-0/ERROR] [majruszsdifficulty/]: Failed to find class: java.util.zip.ZipException: zip END header not found
-[19Jan2025 05:47:05.277] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
-[19Jan2025 05:47:05.350] [modloading-worker-0/INFO] [Devices Mod/]: Creating Creative Tab...
-[19Jan2025 05:47:05.446] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Initializing registration handler and mod config.
-[19Jan2025 05:47:05.999] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering common setup handler, and load complete handler.
-[19Jan2025 05:47:06.015] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering server setup handler.
-[19Jan2025 05:47:06.016] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering the reload listener.
-[19Jan2025 05:47:06.020] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering mod class to forge events.
-[19Jan2025 05:47:07.115] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[19Jan2025 05:47:12.104] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[19Jan2025 05:47:12.104] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[19Jan2025 05:47:12.233] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[19Jan2025 05:47:12.430] [modloading-worker-0/INFO] [Configuration/FileWatching]: Registered collectorsalbum config for auto-sync function
-[19Jan2025 05:47:12.553] [modloading-worker-0/ERROR] [majruszlibrary/]: Failed to find class: java.util.zip.ZipException: zip END header not found
-[19Jan2025 05:47:19.382] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/MQVN2/servidor_minecraft/config/casinocraft-common.toml is not correct. Correcting
-[19Jan2025 05:47:19.384] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key CASINO CONFIG was corrected from null to its default, SimpleCommentedConfig:{}. 
-[19Jan2025 05:47:19.385] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key CASINO CONFIG.config_creative_token was corrected from null to its default, true. 
-[19Jan2025 05:47:19.387] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key CASINO CONFIG.config_creative_reward was corrected from null to its default, true. 
-[19Jan2025 05:47:19.388] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key CASINO CONFIG.config_creative_oponly was corrected from null to its default, false. 
-[19Jan2025 05:47:19.388] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key CASINO CONFIG.config_timeout was corrected from null to its default, 300. 
-[19Jan2025 05:47:19.400] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/MQVN2/servidor_minecraft/config/lucky77-common.toml is not correct. Correcting
-[19Jan2025 05:47:19.401] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS was corrected from null to its default, SimpleCommentedConfig:{}. 
-[19Jan2025 05:47:19.401] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Drowned was corrected from null to its default, false. 
-[19Jan2025 05:47:19.402] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Husk was corrected from null to its default, false. 
-[19Jan2025 05:47:19.402] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Stray was corrected from null to its default, false. 
-[19Jan2025 05:47:19.403] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.CaveSpider was corrected from null to its default, false. 
-[19Jan2025 05:47:19.403] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Creeper was corrected from null to its default, false. 
-[19Jan2025 05:47:19.403] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Enderman was corrected from null to its default, false. 
-[19Jan2025 05:47:19.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Giant was corrected from null to its default, false. 
-[19Jan2025 05:47:19.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Skeleton was corrected from null to its default, false. 
-[19Jan2025 05:47:19.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Spider was corrected from null to its default, false. 
-[19Jan2025 05:47:19.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Witch was corrected from null to its default, false. 
-[19Jan2025 05:47:19.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Wither was corrected from null to its default, false. 
-[19Jan2025 05:47:19.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.WitherSkeleton was corrected from null to its default, false. 
-[19Jan2025 05:47:19.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Zombie was corrected from null to its default, false. 
-[19Jan2025 05:47:19.407] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.ZombieVillager was corrected from null to its default, false. 
-[19Jan2025 05:47:19.408] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Evoker was corrected from null to its default, false. 
-[19Jan2025 05:47:19.408] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Illusioner was corrected from null to its default, false. 
-[19Jan2025 05:47:19.409] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Ravager was corrected from null to its default, false. 
-[19Jan2025 05:47:19.409] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Vex was corrected from null to its default, false. 
-[19Jan2025 05:47:19.409] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SPAWN RESTRICTIONS.Vindicator was corrected from null to its default, false. 
-[19Jan2025 05:47:19.750] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
-[19Jan2025 05:47:19.776] [modloading-worker-0/INFO] [Devices Mod/]: Doing some common setup.
-[19Jan2025 05:47:19.779] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/2f18a26b1e0c3f048a3d73a822f8669e
-[19Jan2025 05:47:19.780] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/b45afe52425036fd91fbe736d62d8686
-[19Jan2025 05:47:19.784] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/e2a6a8b6270d3c338a30c4774f5aadc2
-[19Jan2025 05:47:19.786] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/d86b1a6540e83487a1a0a6d75a9e9e85
-[19Jan2025 05:47:19.787] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/68177ab5333a3225896c4373707ce286
-[19Jan2025 05:47:19.789] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/6fcc830bcdc33ed8bfb4a9b5c4fa3f93
-[19Jan2025 05:47:19.790] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/a17f7903c43c3e86997b30403506145b
-[19Jan2025 05:47:19.797] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/678b9b9b076c3ab19dbff4b7fd22a419
-[19Jan2025 05:47:19.815] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'update_application_data'
-[19Jan2025 05:47:19.818] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'print'
-[19Jan2025 05:47:19.820] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'update_system_data'
-[19Jan2025 05:47:19.823] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'connect'
-[19Jan2025 05:47:19.825] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'ping'
-[19Jan2025 05:47:19.828] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_network_devices'
-[19Jan2025 05:47:19.831] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'send_action'
-[19Jan2025 05:47:19.834] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_file_system'
-[19Jan2025 05:47:19.837] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_files'
-[19Jan2025 05:47:19.840] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_folder_structure'
-[19Jan2025 05:47:19.842] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_main_drive'
-[19Jan2025 05:47:19.848] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'install_app'
-[19Jan2025 05:47:19.849] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'update_inbox'
-[19Jan2025 05:47:19.851] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'send_email'
-[19Jan2025 05:47:19.852] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'check_email_account'
-[19Jan2025 05:47:19.855] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'register_email_account'
-[19Jan2025 05:47:19.857] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'delete_email'
-[19Jan2025 05:47:19.859] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'view_email'
-[19Jan2025 05:47:20.190] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
-[19Jan2025 05:47:20.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
-[19Jan2025 05:47:20.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Starting version check at https://api.modrinth.com/updates/OhduvhIc/forge_updates.json
-[19Jan2025 05:47:20.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Found status: OUTDATED Current: 1.1.0 Target: 1.1.0+mod
-[19Jan2025 05:47:20.865] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[19Jan2025 05:47:21.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[19Jan2025 05:47:21.103] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[19Jan2025 05:47:21.113] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[19Jan2025 05:47:21.113] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[19Jan2025 05:47:21.661] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
-[19Jan2025 05:47:21.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[19Jan2025 05:47:21.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[19Jan2025 05:47:21.708] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[19Jan2025 05:47:21.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
-[19Jan2025 05:47:21.810] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[19Jan2025 05:47:21.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
-[19Jan2025 05:47:21.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[19Jan2025 05:47:22.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
-[19Jan2025 05:47:22.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[19Jan2025 05:47:22.223] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[19Jan2025 05:47:22.224] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[19Jan2025 05:47:22.224] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[19Jan2025 05:47:22.225] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[19Jan2025 05:47:22.225] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[19Jan2025 05:47:22.226] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[19Jan2025 05:47:22.226] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[19Jan2025 05:47:22.227] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[19Jan2025 05:47:22.412] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[19Jan2025 05:47:22.429] [modloading-worker-0/INFO] [Devices Mod/]: Doing some server setup.
-[19Jan2025 05:47:22.460] [modloading-worker-0/INFO] [Devices Mod/]: Doing some load complete handling.
-[19Jan2025 05:47:22.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[19Jan2025 05:47:22.539] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[19Jan2025 05:47:22.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[19Jan2025 05:47:22.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Jan2025 05:47:22.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[19Jan2025 05:47:22.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[19Jan2025 05:47:22.664] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
-[19Jan2025 05:47:31.541] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Jan2025 05:47:31.934] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_white Expected: 1026 Got: 2987
-[19Jan2025 05:47:31.934] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_orange Expected: 1027 Got: 2988
-[19Jan2025 05:47:31.935] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_magenta Expected: 1028 Got: 2989
-[19Jan2025 05:47:31.935] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_light_blue Expected: 1029 Got: 2990
-[19Jan2025 05:47:31.936] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_yellow Expected: 1030 Got: 2991
-[19Jan2025 05:47:31.936] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_lime Expected: 1031 Got: 2992
-[19Jan2025 05:47:31.937] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_pink Expected: 1032 Got: 2993
-[19Jan2025 05:47:31.937] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_gray Expected: 1033 Got: 2994
-[19Jan2025 05:47:31.937] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_light_gray Expected: 1034 Got: 2995
-[19Jan2025 05:47:31.937] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_cyan Expected: 1035 Got: 2996
-[19Jan2025 05:47:31.938] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_purple Expected: 1036 Got: 2997
-[19Jan2025 05:47:31.938] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_blue Expected: 1037 Got: 2998
-[19Jan2025 05:47:31.938] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_brown Expected: 1038 Got: 2999
-[19Jan2025 05:47:31.939] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_green Expected: 1039 Got: 3000
-[19Jan2025 05:47:31.939] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_red Expected: 1040 Got: 3001
-[19Jan2025 05:47:31.940] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_base_black Expected: 1041 Got: 3002
-[19Jan2025 05:47:31.941] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_white Expected: 1042 Got: 3003
-[19Jan2025 05:47:31.941] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_orange Expected: 1043 Got: 3004
-[19Jan2025 05:47:31.941] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_magenta Expected: 1044 Got: 3005
-[19Jan2025 05:47:31.941] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_light_blue Expected: 1045 Got: 3006
-[19Jan2025 05:47:31.942] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_yellow Expected: 1046 Got: 3007
-[19Jan2025 05:47:31.942] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_lime Expected: 1047 Got: 3008
-[19Jan2025 05:47:31.942] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_pink Expected: 1048 Got: 3009
-[19Jan2025 05:47:31.942] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_gray Expected: 1049 Got: 3010
-[19Jan2025 05:47:31.943] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_light_gray Expected: 1050 Got: 3011
-[19Jan2025 05:47:31.944] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_cyan Expected: 1051 Got: 3012
-[19Jan2025 05:47:31.944] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_purple Expected: 1052 Got: 3013
-[19Jan2025 05:47:31.945] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_blue Expected: 1053 Got: 3014
-[19Jan2025 05:47:31.945] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_brown Expected: 1054 Got: 3015
-[19Jan2025 05:47:31.945] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_green Expected: 1055 Got: 3016
-[19Jan2025 05:47:31.946] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_red Expected: 1056 Got: 3017
-[19Jan2025 05:47:31.946] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_black Expected: 1057 Got: 3018
-[19Jan2025 05:47:31.946] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_white Expected: 1058 Got: 3019
-[19Jan2025 05:47:31.947] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_orange Expected: 1059 Got: 3020
-[19Jan2025 05:47:31.947] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_magenta Expected: 1060 Got: 3021
-[19Jan2025 05:47:31.947] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_light_blue Expected: 1061 Got: 3022
-[19Jan2025 05:47:31.947] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_yellow Expected: 1062 Got: 3023
-[19Jan2025 05:47:31.948] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_lime Expected: 1063 Got: 3024
-[19Jan2025 05:47:31.948] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_pink Expected: 1064 Got: 3025
-[19Jan2025 05:47:31.948] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_gray Expected: 1065 Got: 3026
-[19Jan2025 05:47:31.948] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_light_gray Expected: 1066 Got: 3027
-[19Jan2025 05:47:31.949] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_cyan Expected: 1067 Got: 3028
-[19Jan2025 05:47:31.949] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_purple Expected: 1068 Got: 3029
-[19Jan2025 05:47:31.950] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_blue Expected: 1069 Got: 3030
-[19Jan2025 05:47:31.950] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_brown Expected: 1070 Got: 3031
-[19Jan2025 05:47:31.950] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_green Expected: 1071 Got: 3032
-[19Jan2025 05:47:31.951] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_red Expected: 1072 Got: 3033
-[19Jan2025 05:47:31.951] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_base_black Expected: 1073 Got: 3034
-[19Jan2025 05:47:31.951] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_white Expected: 1074 Got: 3035
-[19Jan2025 05:47:31.952] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_orange Expected: 1075 Got: 3036
-[19Jan2025 05:47:31.953] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_magenta Expected: 1076 Got: 3037
-[19Jan2025 05:47:31.953] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_light_blue Expected: 1077 Got: 3038
-[19Jan2025 05:47:31.953] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_yellow Expected: 1078 Got: 3039
-[19Jan2025 05:47:31.954] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_lime Expected: 1079 Got: 3040
-[19Jan2025 05:47:31.954] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_pink Expected: 1080 Got: 3041
-[19Jan2025 05:47:31.954] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_gray Expected: 1081 Got: 3042
-[19Jan2025 05:47:31.955] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_light_gray Expected: 1082 Got: 3043
-[19Jan2025 05:47:31.955] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_cyan Expected: 1083 Got: 3044
-[19Jan2025 05:47:31.955] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_purple Expected: 1084 Got: 3045
-[19Jan2025 05:47:31.956] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_blue Expected: 1085 Got: 3046
-[19Jan2025 05:47:31.956] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_brown Expected: 1086 Got: 3047
-[19Jan2025 05:47:31.956] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_green Expected: 1087 Got: 3048
-[19Jan2025 05:47:31.957] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_red Expected: 1088 Got: 3049
-[19Jan2025 05:47:31.957] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: casinocraft:arcade_slot_black Expected: 1089 Got: 3050
-[19Jan2025 05:47:31.960] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_white Expected: 1333 Got: 5822
-[19Jan2025 05:47:31.960] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_orange Expected: 1334 Got: 5823
-[19Jan2025 05:47:31.962] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_magenta Expected: 1335 Got: 5824
-[19Jan2025 05:47:31.962] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_light_blue Expected: 1336 Got: 5825
-[19Jan2025 05:47:31.962] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_yellow Expected: 1337 Got: 5826
-[19Jan2025 05:47:31.963] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_lime Expected: 1338 Got: 5827
-[19Jan2025 05:47:31.963] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_pink Expected: 1339 Got: 5828
-[19Jan2025 05:47:31.963] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_gray Expected: 1340 Got: 5829
-[19Jan2025 05:47:31.964] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_light_gray Expected: 1341 Got: 5830
-[19Jan2025 05:47:31.964] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_cyan Expected: 1342 Got: 5831
-[19Jan2025 05:47:31.964] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_purple Expected: 1343 Got: 5832
-[19Jan2025 05:47:31.965] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_blue Expected: 1344 Got: 5833
-[19Jan2025 05:47:31.965] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_brown Expected: 1345 Got: 5834
-[19Jan2025 05:47:31.966] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_green Expected: 1346 Got: 5835
-[19Jan2025 05:47:31.966] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_red Expected: 1347 Got: 5836
-[19Jan2025 05:47:31.967] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_base_black Expected: 1348 Got: 5837
-[19Jan2025 05:47:31.967] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_white Expected: 1349 Got: 5838
-[19Jan2025 05:47:31.968] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_orange Expected: 1350 Got: 5839
-[19Jan2025 05:47:31.968] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_magenta Expected: 1351 Got: 5840
-[19Jan2025 05:47:31.969] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_light_blue Expected: 1352 Got: 5841
-[19Jan2025 05:47:31.969] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_yellow Expected: 1353 Got: 5842
-[19Jan2025 05:47:31.969] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_lime Expected: 1354 Got: 5843
-[19Jan2025 05:47:31.971] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_pink Expected: 1355 Got: 5844
-[19Jan2025 05:47:31.971] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_gray Expected: 1356 Got: 5845
-[19Jan2025 05:47:31.972] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_light_gray Expected: 1357 Got: 5846
-[19Jan2025 05:47:31.972] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_cyan Expected: 1358 Got: 5847
-[19Jan2025 05:47:31.972] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_purple Expected: 1359 Got: 5848
-[19Jan2025 05:47:31.973] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_blue Expected: 1360 Got: 5849
-[19Jan2025 05:47:31.973] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_brown Expected: 1361 Got: 5850
-[19Jan2025 05:47:31.974] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_green Expected: 1362 Got: 5851
-[19Jan2025 05:47:31.974] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_red Expected: 1363 Got: 5852
-[19Jan2025 05:47:31.974] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:cardtable_wide_black Expected: 1364 Got: 5853
-[19Jan2025 05:47:31.975] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_white Expected: 1365 Got: 5854
-[19Jan2025 05:47:31.975] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_orange Expected: 1366 Got: 5855
-[19Jan2025 05:47:31.975] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_magenta Expected: 1367 Got: 5856
-[19Jan2025 05:47:31.976] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_light_blue Expected: 1368 Got: 5857
-[19Jan2025 05:47:31.976] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_yellow Expected: 1369 Got: 5858
-[19Jan2025 05:47:31.977] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_lime Expected: 1370 Got: 5859
-[19Jan2025 05:47:31.977] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_pink Expected: 1371 Got: 5860
-[19Jan2025 05:47:31.977] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_gray Expected: 1372 Got: 5861
-[19Jan2025 05:47:31.978] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_light_gray Expected: 1373 Got: 5862
-[19Jan2025 05:47:31.978] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_cyan Expected: 1374 Got: 5863
-[19Jan2025 05:47:31.979] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_purple Expected: 1375 Got: 5864
-[19Jan2025 05:47:31.979] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_blue Expected: 1376 Got: 5865
-[19Jan2025 05:47:31.979] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_brown Expected: 1377 Got: 5866
-[19Jan2025 05:47:31.980] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_green Expected: 1378 Got: 5867
-[19Jan2025 05:47:31.981] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_red Expected: 1379 Got: 5868
-[19Jan2025 05:47:31.981] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_base_black Expected: 1380 Got: 5869
-[19Jan2025 05:47:31.982] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_white Expected: 1381 Got: 5870
-[19Jan2025 05:47:31.985] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_orange Expected: 1382 Got: 5871
-[19Jan2025 05:47:31.986] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_magenta Expected: 1383 Got: 5872
-[19Jan2025 05:47:31.986] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_light_blue Expected: 1384 Got: 5873
-[19Jan2025 05:47:31.986] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_yellow Expected: 1385 Got: 5874
-[19Jan2025 05:47:31.987] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_lime Expected: 1386 Got: 5875
-[19Jan2025 05:47:31.987] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_pink Expected: 1387 Got: 5876
-[19Jan2025 05:47:31.988] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_gray Expected: 1388 Got: 5877
-[19Jan2025 05:47:31.988] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_light_gray Expected: 1389 Got: 5878
-[19Jan2025 05:47:31.988] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_cyan Expected: 1390 Got: 5879
-[19Jan2025 05:47:31.989] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_purple Expected: 1391 Got: 5880
-[19Jan2025 05:47:31.989] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_blue Expected: 1392 Got: 5881
-[19Jan2025 05:47:31.989] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_brown Expected: 1393 Got: 5882
-[19Jan2025 05:47:31.990] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_green Expected: 1394 Got: 5883
-[19Jan2025 05:47:31.990] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_red Expected: 1395 Got: 5884
-[19Jan2025 05:47:31.991] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:arcade_slot_black Expected: 1396 Got: 5885
-[19Jan2025 05:47:31.992] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_1_1 Expected: 1397 Got: 5886
-[19Jan2025 05:47:31.992] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_2_1 Expected: 1398 Got: 5887
-[19Jan2025 05:47:31.992] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_2_2 Expected: 1399 Got: 5888
-[19Jan2025 05:47:31.993] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_3_1 Expected: 1400 Got: 5889
-[19Jan2025 05:47:31.993] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_3_2 Expected: 1401 Got: 5890
-[19Jan2025 05:47:31.993] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_3_3 Expected: 1402 Got: 5891
-[19Jan2025 05:47:31.994] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_4_1 Expected: 1403 Got: 5892
-[19Jan2025 05:47:31.994] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_4_2 Expected: 1404 Got: 5893
-[19Jan2025 05:47:31.994] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_5_1 Expected: 1405 Got: 5894
-[19Jan2025 05:47:31.995] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_5_2 Expected: 1406 Got: 5895
-[19Jan2025 05:47:31.995] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_6_1 Expected: 1407 Got: 5896
-[19Jan2025 05:47:31.996] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_6_2 Expected: 1408 Got: 5897
-[19Jan2025 05:47:31.996] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: casinocraft:rulebook_7_0 Expected: 1409 Got: 5898
-[19Jan2025 05:47:31.998] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: casinocraft:casinocraft.pickup Expected: 1604 Got: 2042
-[19Jan2025 05:47:31.998] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: casinocraft:casinocraft.impact Expected: 1605 Got: 2043
-[19Jan2025 05:47:31.998] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: casinocraft:casinocraft.menu Expected: 1606 Got: 2044
-[19Jan2025 05:47:31.999] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: casinocraft:casinocraft.pause.on Expected: 1607 Got: 2045
-[19Jan2025 05:47:32.000] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: casinocraft:casinocraft.pause.off Expected: 1608 Got: 2046
-[19Jan2025 05:47:32.000] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: casinocraft:casinocraft.tetris Expected: 1609 Got: 2047
-[19Jan2025 05:47:32.001] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: casinocraft:casinocraft.card.place Expected: 1610 Got: 2048
-[19Jan2025 05:47:32.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: casinocraft:casinocraft.card.shove Expected: 1611 Got: 2049
-[19Jan2025 05:47:32.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: casinocraft:casinocraft.roulette Expected: 1612 Got: 2050
-[19Jan2025 05:47:32.002] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: casinocraft:casinocraft.chip Expected: 1613 Got: 2051
-[19Jan2025 05:47:32.003] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: casinocraft:casinocraft.dice Expected: 1614 Got: 2052
-[19Jan2025 05:47:32.003] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: casinocraft:casinocraft.reward Expected: 1615 Got: 2053
-[19Jan2025 05:47:37.173] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MQVN2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/assets/.mcassetsroot' uses unexpected schema
-[19Jan2025 05:47:37.175] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MQVN2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/data/.mcassetsroot' uses unexpected schema
-[19Jan2025 05:47:50.525] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
-[19Jan2025 05:47:51.469] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:slotmachinemod:blocks/bj_machine
+[20Jan2025 19:02:06.149] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[20Jan2025 19:02:06.173] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[20Jan2025 19:02:15.202] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[20Jan2025 19:02:15.241] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[20Jan2025 19:02:15.246] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/MQVN2/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6%20(1).jar%23146!/
+[20Jan2025 19:02:15.269] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/MQVN2/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6 (1).jar
+[20Jan2025 19:02:15.272] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[20Jan2025 19:02:15.446] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/MQVN2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[20Jan2025 19:02:15.463] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[20Jan2025 19:02:16.368] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[20Jan2025 19:02:16.378] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Jan2025 19:02:16.389] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Jan2025 19:02:16.405] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/MQVN2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Jan2025 19:02:17.704] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[20Jan2025 19:02:17.722] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[20Jan2025 19:02:20.385] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[20Jan2025 19:02:20.412] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[20Jan2025 19:02:22.684] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[20Jan2025 19:02:25.821] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Jan2025 19:02:26.384] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[20Jan2025 19:02:26.391] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20Jan2025 19:02:26.959] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Jan2025 19:02:27.055] [main/WARN] [mixin/]: Reference map 'LesRaisinsAddon_1201.refmap.json' for lradd.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Jan2025 19:02:31.389] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[20Jan2025 19:02:31.831] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[20Jan2025 19:02:50.358] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zed000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[20Jan2025 19:02:54.989] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[20Jan2025 19:02:55.070] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[20Jan2025 19:02:55.850] [modloading-worker-0/ERROR] [majruszsdifficulty/]: Failed to find class: java.util.zip.ZipException: zip END header not found
+[20Jan2025 19:02:55.900] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[20Jan2025 19:02:55.903] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[20Jan2025 19:02:55.921] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[20Jan2025 19:02:55.922] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.15...
+[20Jan2025 19:02:55.924] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[20Jan2025 19:02:55.935] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[20Jan2025 19:02:55.939] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[20Jan2025 19:02:55.959] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[20Jan2025 19:02:55.965] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[20Jan2025 19:02:55.985] [modloading-worker-0/INFO] [Devices Mod/]: Creating Creative Tab...
+[20Jan2025 19:02:56.261] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Initializing registration handler and mod config.
+[20Jan2025 19:02:56.465] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering common setup handler, and load complete handler.
+[20Jan2025 19:02:56.467] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering server setup handler.
+[20Jan2025 19:02:56.471] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering the reload listener.
+[20Jan2025 19:02:56.471] [modloading-worker-0/INFO] [com.ultreon.devices.forge.DevicesForge/]: Registering mod class to forge events.
+[20Jan2025 19:02:57.483] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[20Jan2025 19:03:05.992] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[20Jan2025 19:03:05.996] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[20Jan2025 19:03:06.253] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[20Jan2025 19:03:06.575] [modloading-worker-0/INFO] [Configuration/FileWatching]: Registered collectorsalbum config for auto-sync function
+[20Jan2025 19:03:06.927] [modloading-worker-0/ERROR] [majruszlibrary/]: Failed to find class: java.util.zip.ZipException: zip END header not found
+[20Jan2025 19:03:17.506] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[20Jan2025 19:03:17.523] [modloading-worker-0/INFO] [Devices Mod/]: Doing some common setup.
+[20Jan2025 19:03:17.533] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/2f18a26b1e0c3f048a3d73a822f8669e
+[20Jan2025 19:03:17.537] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/b45afe52425036fd91fbe736d62d8686
+[20Jan2025 19:03:17.547] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/e2a6a8b6270d3c338a30c4774f5aadc2
+[20Jan2025 19:03:17.548] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/d86b1a6540e83487a1a0a6d75a9e9e85
+[20Jan2025 19:03:17.549] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/68177ab5333a3225896c4373707ce286
+[20Jan2025 19:03:17.557] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/6fcc830bcdc33ed8bfb4a9b5c4fa3f93
+[20Jan2025 19:03:17.572] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/a17f7903c43c3e86997b30403506145b
+[20Jan2025 19:03:17.578] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id devices:main_channel/678b9b9b076c3ab19dbff4b7fd22a419
+[20Jan2025 19:03:17.621] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'update_application_data'
+[20Jan2025 19:03:17.623] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'print'
+[20Jan2025 19:03:17.623] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'update_system_data'
+[20Jan2025 19:03:17.624] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'connect'
+[20Jan2025 19:03:17.626] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'ping'
+[20Jan2025 19:03:17.627] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_network_devices'
+[20Jan2025 19:03:17.630] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'send_action'
+[20Jan2025 19:03:17.632] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_file_system'
+[20Jan2025 19:03:17.634] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_files'
+[20Jan2025 19:03:17.638] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_folder_structure'
+[20Jan2025 19:03:17.639] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'get_main_drive'
+[20Jan2025 19:03:17.641] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'install_app'
+[20Jan2025 19:03:17.647] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'update_inbox'
+[20Jan2025 19:03:17.667] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'send_email'
+[20Jan2025 19:03:17.668] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'check_email_account'
+[20Jan2025 19:03:17.675] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'register_email_account'
+[20Jan2025 19:03:17.676] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'delete_email'
+[20Jan2025 19:03:17.681] [modloading-worker-0/INFO] [Devices Mod/]: Registering task 'view_email'
+[20Jan2025 19:03:18.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[20Jan2025 19:03:19.059] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[20Jan2025 19:03:19.060] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Starting version check at https://api.modrinth.com/updates/OhduvhIc/forge_updates.json
+[20Jan2025 19:03:19.554] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Found status: OUTDATED Current: 1.1.0 Target: 1.1.0+mod
+[20Jan2025 19:03:19.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[20Jan2025 19:03:19.854] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[20Jan2025 19:03:19.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[20Jan2025 19:03:19.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[20Jan2025 19:03:19.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[20Jan2025 19:03:20.631] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
+[20Jan2025 19:03:20.632] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[20Jan2025 19:03:20.715] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[20Jan2025 19:03:20.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[20Jan2025 19:03:20.821] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
+[20Jan2025 19:03:20.822] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[20Jan2025 19:03:20.843] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.0 Target: null
+[20Jan2025 19:03:20.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[20Jan2025 19:03:21.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
+[20Jan2025 19:03:21.215] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[20Jan2025 19:03:21.566] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[20Jan2025 19:03:21.567] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[20Jan2025 19:03:21.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[20Jan2025 19:03:21.582] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Jan2025 19:03:21.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[20Jan2025 19:03:21.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[20Jan2025 19:03:21.804] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[20Jan2025 19:03:22.256] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[20Jan2025 19:03:22.258] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[20Jan2025 19:03:22.258] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[20Jan2025 19:03:22.259] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[20Jan2025 19:03:22.259] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[20Jan2025 19:03:22.260] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[20Jan2025 19:03:22.261] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[20Jan2025 19:03:22.261] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[20Jan2025 19:03:22.656] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[20Jan2025 19:03:22.697] [modloading-worker-0/INFO] [Devices Mod/]: Doing some server setup.
+[20Jan2025 19:03:22.760] [modloading-worker-0/INFO] [Devices Mod/]: Doing some load complete handling.
+[20Jan2025 19:03:33.834] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Jan2025 19:03:41.273] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MQVN2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/assets/.mcassetsroot' uses unexpected schema
+[20Jan2025 19:03:41.275] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/MQVN2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23193!/data/.mcassetsroot' uses unexpected schema
+[20Jan2025 19:04:00.226] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.0.jar
+[20Jan2025 19:04:01.336] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:slotmachinemod:blocks/bj_machine
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'slotmachinemod:bj_machine'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -349,7 +169,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[19Jan2025 05:47:53.797] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/lime
+[20Jan2025 19:04:03.288] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/lime
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -387,7 +207,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:53.806] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/yellow
+[20Jan2025 19:04:03.297] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/yellow
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wool'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -425,7 +245,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wool'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:53.809] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/blue
+[20Jan2025 19:04:03.300] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/blue
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -463,9 +283,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:53.818] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[19Jan2025 05:47:53.827] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[19Jan2025 05:47:53.852] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/magenta
+[20Jan2025 19:04:03.309] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[20Jan2025 19:04:03.322] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[20Jan2025 19:04:03.382] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/magenta
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -503,7 +323,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:53.874] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/purple
+[20Jan2025 19:04:03.417] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/purple
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -541,9 +361,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:53.894] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[19Jan2025 05:47:53.918] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[19Jan2025 05:47:53.938] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/cyan
+[20Jan2025 19:04:03.440] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[20Jan2025 19:04:03.468] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[20Jan2025 19:04:03.488] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/cyan
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -581,7 +401,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:53.975] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/brown
+[20Jan2025 19:04:03.533] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/brown
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -619,8 +439,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:53.987] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[19Jan2025 05:47:53.992] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/silver
+[20Jan2025 19:04:03.553] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[20Jan2025 19:04:03.559] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/silver
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wool'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -658,7 +478,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wool'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:54.003] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/red
+[20Jan2025 19:04:03.579] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/red
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -696,7 +516,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:54.009] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/gray
+[20Jan2025 19:04:03.588] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/gray
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -734,7 +554,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:54.030] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/white
+[20Jan2025 19:04:03.626] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/white
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wool'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -772,7 +592,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:wool'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:54.042] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/pink
+[20Jan2025 19:04:03.664] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/pink
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:ping_wool'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -810,7 +630,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:ping_wool'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:54.052] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/black
+[20Jan2025 19:04:03.673] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/black
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -848,8 +668,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:54.062] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[19Jan2025 05:47:54.065] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/green
+[20Jan2025 19:04:03.688] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[20Jan2025 19:04:03.690] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/green
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -887,9 +707,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:54.069] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[19Jan2025 05:47:54.076] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[19Jan2025 05:47:54.076] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/orange
+[20Jan2025 19:04:03.695] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[20Jan2025 19:04:03.704] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[20Jan2025 19:04:03.705] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/orange
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -927,7 +747,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:54.079] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/light_blue
+[20Jan2025 19:04:03.712] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe devices:office_chair/light_blue
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -965,100 +785,65 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Jan2025 05:47:54.086] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
-[19Jan2025 05:47:54.470] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4281 advancements
-[19Jan2025 05:47:54.731] [main/INFO] [Dungeon Crawl/]: Loading data...
-[19Jan2025 05:47:55.836] [main/INFO] [Dungeon Crawl/]: Done.
-[19Jan2025 05:47:55.864] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[19Jan2025 05:47:55.892] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[19Jan2025 05:47:55.916] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[19Jan2025 05:47:55.938] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[20Jan2025 19:04:03.718] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
+[20Jan2025 19:04:04.109] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4281 advancements
+[20Jan2025 19:04:04.514] [main/INFO] [Dungeon Crawl/]: Loading data...
+[20Jan2025 19:04:05.339] [main/INFO] [Dungeon Crawl/]: Done.
+[20Jan2025 19:04:05.351] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[20Jan2025 19:04:05.361] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[20Jan2025 19:04:05.369] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[20Jan2025 19:04:05.380] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[19Jan2025 05:48:01.491] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 20 milliseconds
-[19Jan2025 05:48:01.504] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 9 milliseconds
-[19Jan2025 05:48:01.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[19Jan2025 05:48:01.512] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Jan2025 05:48:01.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Jan2025 05:48:01.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Jan2025 05:48:01.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Jan2025 05:48:01.918] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Jan2025 05:48:02.060] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Jan2025 05:48:02.060] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Jan2025 05:48:02.061] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Jan2025 05:48:02.061] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Jan2025 05:48:02.247] [Server thread/INFO] [Framework/]: Loading server configs...
-[19Jan2025 05:48:02.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Jan2025 05:48:09.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Jan2025 05:48:21.012] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.021] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.022] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.023] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.024] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.025] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.026] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.027] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.028] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.030] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.032] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.034] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.037] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.040] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.042] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.045] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.047] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.050] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.052] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.055] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.058] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.061] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.063] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.492] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:21.992] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:22.492] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:22.996] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:23.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Jan2025 05:48:24.311] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 14319 ms
-[19Jan2025 05:48:24.311] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.226s)! For help, type "help"
-[19Jan2025 05:48:24.444] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Jan2025 05:48:24.467] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[19Jan2025 05:48:24.469] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[19Jan2025 05:50:46.924] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[19Jan2025 05:50:47.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuamayitaa[/127.47.93.245:53857] logged in with entity id 440 at (-820.9527301192624, 51.0, 1489.7163868818402)
-[19Jan2025 05:50:47.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa joined the game
-[19Jan2025 05:50:47.860] [Server thread/INFO] [Devices Mod/]: Player logged in: literal{facuamayitaa}
-[19Jan2025 05:50:54.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7715ms or 154 ticks behind
-[19Jan2025 05:51:24.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14904ms or 298 ticks behind
-[19Jan2025 05:51:41.946] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2325ms or 46 ticks behind
-[19Jan2025 05:53:06.226] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[19Jan2025 05:57:54.639] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuamayitaa lost connection: Disconnected
-[19Jan2025 05:57:54.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa left the game
-[19Jan2025 05:59:43.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuamayitaa[/127.47.93.245:34865] logged in with entity id 2051 at (-846.4794356744131, 44.0, 1491.1673959673653)
-[19Jan2025 05:59:43.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa joined the game
-[19Jan2025 05:59:43.587] [Server thread/INFO] [Devices Mod/]: Player logged in: literal{facuamayitaa}
-[19Jan2025 05:59:45.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
-[19Jan2025 06:00:17.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2087, l='ServerLevel[world]', x=-889.50, y=88.00, z=1499.78] died, message: 'Villager was slain by Zombie'
-[19Jan2025 06:00:40.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuamayitaa lost connection: Disconnected
-[19Jan2025 06:00:40.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa left the game
-[19Jan2025 06:03:08.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuamayitaa[/127.47.93.245:54629] logged in with entity id 2504 at (-846.5921016972436, 44.0, 1492.0165222948433)
-[19Jan2025 06:03:08.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa joined the game
-[19Jan2025 06:03:08.286] [Server thread/INFO] [Devices Mod/]: Player logged in: literal{facuamayitaa}
-[19Jan2025 06:03:29.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Withering Heights]
-[19Jan2025 06:04:12.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has reached the goal [Strong Undead]
-[19Jan2025 06:04:12.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Not even afraid of death]
-[19Jan2025 06:04:12.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Back to childhood]
-[19Jan2025 06:04:29.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Withering Treasures]
-[19Jan2025 06:09:32.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has reached the goal [Beaconator]
-[19Jan2025 06:09:32.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa has made the advancement [Bring Home the Beacon]
-[19Jan2025 07:05:49.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuamayitaa lost connection: Disconnected
-[19Jan2025 07:05:49.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa left the game
-[19Jan2025 07:10:00.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuamayitaa[/127.47.93.245:42075] logged in with entity id 22151 at (-812.6170846169723, 61.0, 1484.9471978582294)
-[19Jan2025 07:10:00.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa joined the game
-[19Jan2025 07:10:00.200] [Server thread/INFO] [Devices Mod/]: Player logged in: literal{facuamayitaa}
-[19Jan2025 07:10:02.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[19Jan2025 07:24:56.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-787, y=40, z=1489} BlockPos{x=-787, y=39, z=1488}
-[19Jan2025 07:24:56.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-787, y=40, z=1489} BlockPos{x=-787, y=39, z=1488}
-[19Jan2025 07:24:56.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-787, y=40, z=1489} BlockPos{x=-787, y=39, z=1488}
-[19Jan2025 07:24:56.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-787, y=40, z=1489} BlockPos{x=-787, y=39, z=1488}
-[19Jan2025 07:28:15.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-790, y=36, z=1490} BlockPos{x=-791, y=34, z=1491}
+[20Jan2025 19:04:44.070] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 36 milliseconds
+[20Jan2025 19:04:44.096] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 5 milliseconds
+[20Jan2025 19:04:44.101] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[20Jan2025 19:04:44.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Jan2025 19:04:44.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Jan2025 19:04:44.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Jan2025 19:04:44.791] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Jan2025 19:04:44.969] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Jan2025 19:04:45.293] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Jan2025 19:04:45.294] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Jan2025 19:04:45.294] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Jan2025 19:04:45.295] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Jan2025 19:04:46.275] [Server thread/INFO] [Framework/]: Loading server configs...
+[20Jan2025 19:04:46.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Jan2025 19:04:56.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Jan2025 19:05:04.994] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:04.999] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.000] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.001] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.003] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.004] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.008] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.009] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.020] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.025] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.029] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.033] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.040] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.044] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.058] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.059] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.060] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.061] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.243] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:05.743] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:06.243] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:06.743] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:07.275] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Jan2025 19:05:07.792] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[20Jan2025 19:05:08.227] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11985 ms
+[20Jan2025 19:05:08.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.898s)! For help, type "help"
+[20Jan2025 19:05:08.438] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Jan2025 19:05:08.462] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[20Jan2025 19:05:08.464] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[20Jan2025 19:05:33.972] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[20Jan2025 19:05:34.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuamayitaa[/127.47.93.245:49337] logged in with entity id 440 at (-805.3251357241614, 35.0, 1532.9626812715276)
+[20Jan2025 19:05:34.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa joined the game
+[20Jan2025 19:05:35.281] [Server thread/INFO] [Devices Mod/]: Player logged in: literal{facuamayitaa}
+[20Jan2025 19:05:42.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8825ms or 176 ticks behind
+[20Jan2025 19:06:16.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18568ms or 371 ticks behind
+[20Jan2025 19:07:21.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2310ms or 46 ticks behind
