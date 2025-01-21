@@ -971,3 +971,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [21Jan2025 02:28:53.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20208ms or 404 ticks behind
 [21Jan2025 02:29:13.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4672ms or 93 ticks behind
 [21Jan2025 02:31:13.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21Jan2025 02:41:34.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/956, l='ServerLevel[world]', x=-951.62, y=71.00, z=1533.57] died, message: 'Villager was slain by Zombie'
+[21Jan2025 02:42:08.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-895, y=41, z=1498} BlockPos{x=-895, y=38, z=1497}
