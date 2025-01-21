@@ -7844,3 +7844,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [21Jan2025 03:58:26.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jan2025 04:03:26.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jan2025 04:03:26.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 04:08:26.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:08:26.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 04:13:26.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:13:26.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 04:15:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> 28
+[21Jan2025 04:15:25.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> 33
+[21Jan2025 04:18:26.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:18:26.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jan2025 04:20:49.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/27707, l='ServerLevel[world]', x=-806.42, y=65.00, z=1478.42] died, message: 'Fletcher was blown up by Creeperling'
+[21Jan2025 04:20:51.624] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/27708, l='ServerLevel[world]', x=-812.64, y=61.00, z=1479.27] died, message: 'Fletcher burned to death'
+[21Jan2025 04:23:26.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jan2025 04:23:26.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

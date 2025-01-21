@@ -1001,3 +1001,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [21Jan2025 03:35:53.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -820.500000, 68.000000, 1504.500000]
 [21Jan2025 03:46:20.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [facuamayitaa: Teleported facuamayitaa to -825.500000, 68.000000, 1504.500000]
 [21Jan2025 03:46:27.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Jan2025 04:15:06.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> 28
+[21Jan2025 04:15:25.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <facuamayitaa> 33
+[21Jan2025 04:20:49.883] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/27707, l='ServerLevel[world]', x=-806.42, y=65.00, z=1478.42] died, message: 'Fletcher was blown up by Creeperling'
+[21Jan2025 04:20:51.624] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/27708, l='ServerLevel[world]', x=-812.64, y=61.00, z=1479.27] died, message: 'Fletcher burned to death'
