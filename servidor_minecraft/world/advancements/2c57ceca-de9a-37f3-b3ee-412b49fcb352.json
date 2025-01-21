@@ -8651,6 +8651,30 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-21 03:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-21 03:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-21 03:38:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-01-21 03:38:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_toilet": {
     "criteria": {
       "has_red_dye": "2025-01-21 03:38:53 +0000"
@@ -8675,18 +8699,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-01-21 03:38:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-01-21 03:40:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-01-21 03:38:53 +0000"
@@ -8696,12 +8708,6 @@
   "minecraft:recipes/building_blocks/dye_red_wool": {
     "criteria": {
       "has_needed_dye": "2025-01-21 03:38:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-01-21 03:40:07 +0000"
     },
     "done": true
   },
@@ -8717,12 +8723,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-01-21 03:38:37 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/red_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-21 03:38:53 +0000"
@@ -8732,12 +8732,6 @@
   "refurbished_furniture:recipes/decorations/red_toilet": {
     "criteria": {
       "has_dye": "2025-01-21 03:38:53 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-01-21 03:36:49 +0000"
     },
     "done": true
   },
@@ -8789,12 +8783,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-01-21 03:36:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-01-21 03:38:53 +0000"
@@ -8810,6 +8798,24 @@
   "refurbished_furniture:recipes/decorations/red_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-01-21 03:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-21 03:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-21 03:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-21 17:35:19 +0000"
     },
     "done": true
   },
