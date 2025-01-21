@@ -980,3 +980,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:concrete'
 [21Jan2025 03:02:49.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuamayitaa[/127.47.93.245:38689] logged in with entity id 14302 at (-807.7912858487028, 68.0, 1489.4500219911686)
 [21Jan2025 03:02:49.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa joined the game
 [21Jan2025 03:02:49.958] [Server thread/INFO] [Devices Mod/]: Player logged in: literal{facuamayitaa}
+[21Jan2025 03:16:37.036] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: facuamayitaa lost connection: Disconnected
+[21Jan2025 03:16:37.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa left the game
+[21Jan2025 03:24:17.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: facuamayitaa[/127.47.93.245:36611] logged in with entity id 18302 at (-881.6695524084959, 35.0, 1494.4563065336188)
+[21Jan2025 03:24:18.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: facuamayitaa joined the game
+[21Jan2025 03:24:18.049] [Server thread/INFO] [Devices Mod/]: Player logged in: literal{facuamayitaa}
